@@ -1,0 +1,136 @@
+Head of IT
+ICT Senior Manager
+Milano, Lombardia
+I am an ICT Senior Manager with experience in managing IT technologies, business processes and stakeholders, IT governance processes and suppliers. I have successfully managed technical and managerial roles, complex and innovative projects and digital transformation programs.  
+I built my professional path with the aim of developing skills that would allow me to understand business phenomena in a timely and effective manner, combining business sensitivity and ICT skills.
+Esperienza lavorativa
+Head of IT
+EOLO SpA -  Busto Arsizio, Lombardia
+Da aprile 2017 a oggi
+Responsible for the overall planning, organizing and execution of all IT functions. This includes directing operations on design, delivery and management of applications and infrastructure, achieving operational efficiencies and meeting business goals.  
+Main systems supporting:  
+• Business processes: sales and marketing, order management and billing, CRM, case management, ERP  
+• Operational processes: field service and workforce management, workflow management and logistic   
+• Network implementation processes, network and service activation, configuration and performance  
+  
+Main responsabilities:  
+• Responsible for IT staff (+30 professionals, internal and external), budget (approx 2M€), applications, data and systems infrastructures  
+• Managing internal customer and business needs  
+• Managing an internal software factory, system integrators, technology vendors and contracts  
+• Define ICT and digital solutions enabling business outcomes  
+• Define IT strategy, governance and architecture  
+• Managing projects in expected times and costs  
+  
+Main achievements:  
+• Improved IT productivity/delivery reviewing governance processes, engaging external suppliers in turn-key mode and inserting new resources into internal factories  
+• Adoption of Agile methodologies and continuous delivery led to the result of one major release per week  
+• Delivered a new BSS system (sales and digital channel management, order  
+management, CRM and credit management) in 18 months without business disruption
+IT Senior Project and Demand Manager
+Fastweb SpA -  Milano, Lombardia
+Da 2012 a 2017
+I've been responsible for IT projects and demand pipeline managing all the Consumer BU needs.  
+Main projects/activities in the areas of:  
+● BSS Digital transformation programs  
+● New products and services from MKTG  
+● New or optimization of operational processes from Sales, Provisioning, Customer Operations and Customer Care  
+● Partnership programs with Media/OTT/Utilities  
+  
+Main responsibilities:  
+• Governance and management of the demand pipeline  
+• Managed a staff (+10 professionals, internal and external) and a project portfolio budget (approx 4M€ per year)  
+• Projects planning, risks, times and costs throughout the lifecycle from initiation to adoption and closure  
+• Managed ICT and digital projects/programs  
+• Managed internal and outsourced projects/programs  
+  
+Main achievements:  
+• Under my guidance the team delivered approx 30-40 projects/change requests per year  
+• Delivered a new CRM (Salesforce) managing +2M retail customers, +24  
+months project, as a core technology in a digital transformation program  
+integrating legacy systems and new digital capabilities. Acted as IT PM for  
+the initiative
+IT Application Development Manager
+Fastweb SpA -  Milano, Lombardia
+Da 2003 a 2012
+I've been responsible for IT systems and applications development and maintenance in the areas of Service Provisioning (process and system orchestration, field and workforce management), Service Assurance (CRM and case management, tracking of main assurance processes) and Network Management (network and service activation and configuration, access and core network performance, fault and troubleshooting management, GIS).  
+Main activities/projects in the areas of:  
+● Integrating new services or network access/core technologies into business and operational processes  
+● Request for new or optimization of operational processes from Provisioning, Customer Operations/Care  
+● Integrating new devices and equipment into Network Management systems  
+  
+Main responsibilities:  
+● Managing software factories  
+● Design, development and delivery of projects and changes in compliance with expected costs and times  
+● Activities of application management into production environment in compliance with expected SLA  
+● Managing and upgrading systems and applications, infrastructures and databases into production environment  
+● Managing licenses life cycle for commercial packages  
+● Managing technology vendors and system integrators  
+● Administration of contracts, resources and budgets  
+  
+Main achievements:  
+● Under my guidance the factory has grown from 10 to 60 professionals, covering a growing number of functional areas  
+● Introduced a turnkey projects model in 3 months reviewing contracts with suppliers and governance processes  
+● Adopted ITIL service management best practices/processes in 6-18 months progressively on all areas  
+● Delivered systems supporting joint customer and order processes for the Fastweb/Sky partnership program
+System Architect, IT Infrastructure Manager
+Fastweb SpA
+Da 2000 a 2003
+Responsible for the design, implementation and maintenance of value-added services and ICT Infrastructures.
+System Manager
+Wind/Infostrada SpA
+Da 1999 a 2000
+Inside the Infostrada Network Operations Center I was responsible for production systems and infrastructures,  
+implementing and managing value-added services offered to Consumer and Business customers.
+Sales Engineer
+Atel SpA
+Da 1997 a 1999
+As a pre-sales and post-sales Engineer, I delivered System Management and IT infrastructures to first-tier banks and industries.
+Software Engineer
+Etnoteam SpA
+Da 1996 a 1997
+I developed software for embedded systems based on a Unix-like real-time kernel and ARM architectures.
+Istruzione e Formazione
+Laurea in Scienze in dell'Informazione
+Università degli Studi di Milano -  Milano, Lombardia
+1996
+Competenze
+CRM (Oltre 10 anni), CUSTOMER RELATIONSHIP MANAGEMENT (Oltre 10 anni), maintenance (Oltre 10 anni), Provisioning (Oltre 10 anni), Delivery (Oltre 10 anni), Integration (Oltre 10 anni), ICT Business solutions (Oltre 10 anni), Salesforce (4 anni), IT management (Oltre 10 anni), project management (Oltre 10 anni), Program management (5 anni), IT governance (Oltre 10 anni), ITIL service management, Digital (5 anni), GDPR (1 anno)
+Link
+https://it.linkedin.com/in/sgalbiati
+Certificazioni/Licenze
+PRINCE2® Foundation Certificate in Project Management, Axelos
+oggi
+ITIL® Foundation Certificate in IT Service Management, Axelos
+oggi
+Salesforce.com Certified Administrator, Salesforce
+Certified SAFe Agilist, Scaled Agile
+Informazioni addizionali
+KEY SKILLS AND COMPETENCIES  
+  
+● Leadership, communication, teamwork, negotiation, proactivity, perseverance, motivation, customer care  
+orientation, problem solving, ability to work under pressure.  
+  
+● Resource management: experience in managing small and large group of resources (internal and external),  
+time and cost management in according to Company's values and guidelines.  
+● Project and program management: experience in successfully managing million Euro projects and programs in  
+house and outsourced. Expert in Project Management best practices (PRINCE2, Agile SAFe and Scrum).  
+● Service and change management: deep experiences in ICT architecture design, SDLC, IT Service Management  
+best practices (ITIL V3).  
+● Demand and client engagement: experience in managing demand pipeline and improving IT effectiveness and  
+business proximity by meeting the Business needs with a single and comprehensive solution design and project  
+management.  
+  
+● IT governance and architectures  
+● Design, development, integration and maintenance of complex ICT applications and infrastructures  
+● Business and operational process design  
+● Deep knowledge of BSS and OSS processes, eTOM, TAM and SID frameworks  
+● Digital marketing and Marketing automation processes and tools  
+● CRM and omnichannel communication, Campaign Management, CPQ, COM e SOM, BPM, ESB and API  
+management, Enterprise Data Hub and DWH, Big Data, Service Provisioning and Activation, Field and  
+Workforce Management, Assurance and Case Management, Network Management systems  
+● CMS, Web-based, digital and mobile technologies, SEO, Web Analytics  
+● Cloud technologies (Salesforce.com, Amazon AWS)  
+● GDPR and IT compliance requirements, IT Security and Disaster recovery  
+● Administration of applications, operating systems, storages, networking and security systems  
+● Scripting and main programming languages (HTML5, Java, JS, C, Perl, PHP)
+Autorizzo il trattamento dei miei dati personali ai sensi dell’art. 13 D.Lgs. 30 giugno 2003 n. 196 e dell’art. 13 del Regolamento (UE) 2016/679.

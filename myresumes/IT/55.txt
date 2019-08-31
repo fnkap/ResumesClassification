@@ -1,0 +1,234 @@
+Senior cloud systems engineer
+Medea, 26000, IT
+Senior engineer in Telecom and IT fields for several years.
+Esperienza lavorativa
+Senior cloud systems engineer
+Ooredoo Algeria
+Da giugno 2017 a oggi
+An IT cloud and infrastructure ingineer
+IT Engineer
+Huawei Algeria
+Da gennaio 2016 a giugno 2017
+Algria Temlecom OceanStore 9000 PoC  
+  
+- Scale out NAS Storage OceanStor 9000 LLD making and confirmation.  
+  
+- Scale out NAS Storage OceanStor 9000 network design and configuration.  
+  
+- Scale out NAS Storage OseanStor9000 Firmware upgrade and Software installation.  
+  
+- Scale out NAS Storage OseanStor9000 configuration.  
+  
+Ooredoo Public Cloud project:  
+  
+- Make the design and solution for Cloud and the network parts.  
+  
+- E9000 Blades server Hardware installation and configuration.  
+  
+- FusionSphere V100R005SPC700 installation and configuration.  
+  
+- Network configuration.  
+  
+Ministry of the High Education Cloud Datacenter (Active-Passive DR Solution)  
+Main and passive Site:  
+  
+- Solution design and review.  
+  
+- E9000 Blades server installation and configuration  
+  
+- Converged storage installation and configuration (create LUN, share files). Huawei OceanStor  
+5500V3  
+  
+- All-in-one backup node installation and configuration (CommVault Simpana).  
+  
+- FusionSphere V100R006C00 design, installation and configuration (FusionCompute and FusionManager ).  
+  
+- SAN switches installation and zones configuration. Huawei SN2124  
+  
+- Cloud Engine switches installation and configuration Huawei CE6850.  
+  
+- OceanStor eBackup V100R002 C00 installation and configuration.  
+  
+- ManageOne ServiceCenter 3.0.5 installation and configuration.  
+  
+- Conduct the Acceptance Test with customers.  
+Ennahr TV Medeia Storage Project  
+  
+- Scale out NAS Storage OceanStor9000 site Survey.  
+- Scale out NAS Storage OceanStor 9000 LLD making and confirmation.  
+  
+- Scale out NAS Storage OseanStor9000 Hardware installation and Software installation.  
+  
+- Scale out NAS Storage OseanStor9000 configuration.  
+  
+- Cloud Engine switches 6810 installation and network configuration.  
+  
+- Conduct the Acceptance Test with customer.  
+  
+Huawei Training Center VDI project:  
+  
+- E9000 Blade server installation and configuration.  
+  
+- FusionCube 9000 initialization and configuration.  
+  
+- Installing the FusionAccess V100R006C00.  
+  
+Moblis NetEco Server expansion project:  
+  
+- X6800 Huawei server hardware installation and Configuration.  
+  
+- OceanStor 6800V3 converged storage installation and configuration (create LUN, share files).  
+  
+- FusionSphere OpenStack V100R006C00 installation and configuration.  
+  
+- ManageOne OperationCenter 3.0 installation and configuration.  
+  
+- ManageOne ServiceCenter 3.0 installation and configuration.  
+  
+Sonalgaz E9000 Blade Server Project  
+- Design the network topology.  
+  
+- E9000 Blades server installation and configuration in two sites.  
+  
+- Test Vmware EXSi 6.5 on the servers.  
+  
+- Test redhat ovirt  
+  
+- Conduct the Hardware Acceptance Test with customer.  
+  
+OOREDOO FusionCloud_Desktop V100R006C00_ POC  
+- X6800 Huawei server hardware installation.  
+  
+- build the Fusion Cloud enivrement by:  
+  
+- installing the FusionCompute V100R005C10SPC700U1  
+  
+- installing the FusionStorage V100R003C30U1  
+  
+- installing the FsionManager. V100R005C10SPC700U1  
+  
+- installing the FusionAccess. V100R006C00  
+- Making the LLD  
+  
+- prepare the Virtual machines templates, meeting the customer requirements.  
+  
+- provision the Virtual machines in different scenarios.  
+  
+- Conduct the test cases with the customers  
+  
+- FusionCloud_Desktop_Solution_V100R006C00_Advanced_Function_Commissioning.  
+  
+- OTA FusionCloud_Desktop V100R005C30_ POC  
+- E9000 Huawei server hardware installation.  
+  
+- build the Fusion Cloud environment:  
+  
+- installing the FusionCompute V100R005C10SPC700  
+  
+- installing the FusionStorage V100R003C30  
+  
+- installing the FsionManager V100R005C10SPC700  
+  
+- installing the FusionAccess V100R005C30  
+  
+- prepare the Virtual machines templates, meeting the customer requirements.  
+  
+- provision the Virtual machines in different scenarios.  
+  
+- Conduct the test cases with the customers  
+  
+- FusionCloud_Desktop_Solution_V100R005C30_Advanced_Function_Commissioning.  
+  
+- FusionCloud_Desktop_Solution_V100R005C30_Upgrade  
+  
+- SONALGAZ ELIT E9000 server POC  
+  
+- E9000 Blades Server site Survey.  
+  
+- E9000 Blades Server hardware installation.  
+  
+- Conduct the E9000 Blades Server tests.
+MSAN
+Da novembre 2015 a gennaio 2016
+as a datacom engineer i invited to support the MSAN project in the west region -ORAN-i get PAT for  
+  
+30 sites during this mission.  
+Main Projects & Tasks: BC 03 2015:  
+- Supervise the hardware installation (MA5600T series)  
+  
+- Software commissioning of the equipment on site.  
+  
+- Conduct Acceptance Test with customers (Voice&ADSL)  
+  
+- .AT Metro-Router Project (40G Ring):  
+  
+the second part in my mission was about the routers (NE40 X8), my tasks:  
+- Monitoring the hardware installation.  
+  
+- Patch installation V600R007SPH061, in four routers.  
+  
+- Making the intial script configuration according the data plan.  
+  
+- Conduct the hardware Acceptance.
+Engineer
+Datacom & Access
+Da ottobre 2015 a dicembre 2015
+transferred to OTA Datacom project.  
+  
+Main Projects & Tasks: IUB switch project:  
+  
+- support the S9303 switch installation.  
+- making script for the initial configuration.  
+  
+- Conduct the Acceptance Test with customer.  
+  
+- S9300 LANSWITCHES UPGRADE ( s9300-v200r007c00spc500).
+Wireless Engineer
+2G / 3G
+Da aprile 2014 a dicembre 2015
+Wireless Engineer (2G / 3G) i worked all this time on the "ATM MOBILIS BSS SWAP AND  
+  
+"  
+Main
+Istruzione e Formazione
+Master's
+Competenze
+Vmware, System Administrator, Linux
+Informazioni addizionali
+IT Skills:  
+- Cloud Computing: VMware vCloud Director for Service Providers, VMware vRealize Automation ,  
+VMware vRealize Operations, VMware vRealize Log lnsigh, vRealize Business for Cloud, Huawei  
+Fusion Manager, Huawei Manage One  
+  
+-Virtualization: VMware vSphere 6.0 , VMware vSphere6.5,HuaweiFusionCompute V100R005,  
+Huawei Fusion Compute V100R006.  
+  
+- Storage: EMC SYMMETRIX VMAX 20K , EMC Isilon OneFS 8.0 , Elastic Cloud Storage ,Huawei  
+OceanStore  
+  
+- System administration: RedHat7, Ubuntu, Windows Server (2008,2012,2016).  
+- Database: Microsoft SQL Server 2012.  
+  
+TELECOM Skills:  
+- RNC/BSC 6900/6910 Interfaces Configuration (IUCS, IUPS, IUB, A,GB, ABIS).  
+- 2G/3G Sites sites creation, swap, expansion and Alarms configuration  
+  
+- Troubleshooting and Supporting site engineers.  
+  
+- Good and strong knowledge about 2G/3G technologies.  
+  
+IP skills:  
+-IP Core Technology OSPF, ISIS MPLS, TCP/IP.  
+  
+Languages knowledge  
+  
+- English fluent  
+  
+- Arabic fluent  
+  
+- French fluent  
+  
+Other  
+  
+Sports, Movies, Music Motivated, sense of responsibility, ambitious, serious and likes teamwork.
+Autorizzo il trattamento dei miei dati personali ai sensi dell’art. 13 D.Lgs. 30 giugno 2003 n. 196 e dell’art. 13 del Regolamento (UE) 2016/679.

@@ -1,0 +1,67 @@
+Security IT Analyst
+Security IT Analyst
+Aosta, Valle d'Aosta
+Esperienza lavorativa
+Security IT Analyst
+Istituto Federale di Paraná
+Da marzo 2017 a maggio 2019
+* Riportare I problemi di sicurezza delle informazioni  
+* Fare test di sicurezza negli sistemi web  
+* monitorare la rete per scoprire problemi di sicurezza  
+  
+Attività o settore Lavorare insieme con i sviluppatore e altri collaboratori della TI per megliorare I sistemi e la rete
+IT Operation Manager
+Istituto Federale di Paraná
+Da settembre 2011 a maggio 2017
+* Gestione dei contratti di internet, stampa.  
+* Acquisto di hardware per il data center  
+* Fare il Operations Plan  
+* Design e Deploy del Data Center  
+* collaborazione nello sviluppo della politica di sicurezza  
+* Informare il board dell'azienda su Operations  
+* Cambiamento della distro linux di debian per centos  
+* Creazione dello team operativo nivelo 3per tratare I problemi di rete  
+  
+Attività o settore Gestione della operazione di rete e data center dello Istituto Federale di Paraná (10 persone e 20  
+città). Competenza ammistrativa e tecnica da prendere decisioni per raggiungere obiettivistrategici della azienda. Gestione dei contratti con i fornitori di materiali e servizi di IT.
+IT Analyst
+Istituto Federale di Paraná
+Da gennaio 2009 a agosto 2011
+* Pianificazione, configurazione, deploy e manutenzione dell'ambiente de virtualizzazione (VMWare)  
+* Manutenzione di servizi  
+▫ DNS  
+▫ HTTP  
+▫ DHCP  
+▫ Radius (Free Radius)  
+▫ CISCO switchs  
+▫ EMC Storage  
+▫ Zabbix Monitoring tool  
+  
+Attività o settore Creazione da zero tutta l'infrastruttura IT dell'Istituto Federale di Paraná. Responsabile per l'impostazione dei servizi data center. Responsabile dell'installazione, della configurazione, dello hardware e dei  
+servizi di gestione da eseguire sul data center.
+C/C++ Developer
+TSG System
+Da 2007 a 2009
+* Fix bugs  
+* Deploy del motore di gioco  
+* Creazione di nuovi caratteristiche nel motore di gioco  
+Attività o settore Sviluppatore del motore di gioco su linux. Fix bugs e controlando le nuove versioni del motore.  
+  
+© Unione europea, 2002-2018 | europass.cedefop.europa.eu
+Istruzione e Formazione
+Software Engineering
+Università Cattolica del Paraná
+Da 2007 a 2009
+Computer Science
+Università dello stato di Santa Catarina
+Da 2002 a 2007
+Competenze
+linux (Oltre 10 anni), network (Oltre 10 anni), programmazione c (2 anni), pentest (2 anni)
+Certificazioni/Licenze
+EC-COUNCIL Certified Security Analyst
+ECC53921891456
+EC-COUNCIL Certified Ethical Hacker
+ECC53921891456
+EC-COUNCIL Computer Hacking Forensic Investigator
+ECC69135024840
+Autorizzo il trattamento dei miei dati personali ai sensi dell’art. 13 D.Lgs. 30 giugno 2003 n. 196 e dell’art. 13 del Regolamento (UE) 2016/679.

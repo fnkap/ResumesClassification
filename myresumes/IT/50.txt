@@ -1,0 +1,115 @@
+IT Project Manager
+Information Security Manager, IT Infrastructure Manager, IT Project Manager
+Napoli, Campania
+I am a CISSP-certified IT professional with more than 10 years of working experience in system administration, IT infrastructures management, information   
+security and project management - with a strong focus on open source technologies. I am a senior Linux system administrator.  
+I am looking for exciting interdisciplinary projects worldwide.
+Esperienza lavorativa
+IT Project Manager
+Kelyon
+Da gennaio 2017 a oggi
+Project manager for the development of web-based applications, targeted to Pharmaceutical and eHealth market, for primary multinational Pharma clients.  
+▪ Project Management  
+- Development and product lifecycle management of web applications targeted to the e-Health, Pharma, biomolecular diagnostics field market, for primary multinational pharma companies.   
+- Development and product lifecycle management of web portals, web-based services, mobile Applications.  
+- Functional Requirements Management , also considering compliance requirements for CE Certified Softwares as Medical Device, within ISO 13485 and ISO 9001 quality frameworks.  
+▪ Planning and Delivery  
+- Requirements analysis, Project plan, editing of functional and product documentation.  
+- Concept Development, Process Planning, Application development, Deployment, Registration & Approval processes, Application Roll-Out & Monitoring.  
+- Management of resources assigned to the project.  
+▪ Project Quality Management  
+- Planning and enforcement of quality requirements in coordination with quality Dept.  
+- Editing of Standard Operating Procedures, Policies and best practices documents.  
+▪ Coordination and Support to client's Business Technology team  
+Support to the Business Technology team of primary multinational pharma companies for implementation, compliance, product lifecycle matters.  
+▪ Helpdesk Management  
+Management of project helpdesk service, follow-up and escalation of trouble tickets.
+IT Infrastructure and Information Security Manager
+Kelyon -  Napoli, Campania
+Da settembre 2007 a oggi
+▪ System Administration team leader  
+Senior-level Linux system administrator.  
+Team leader for the System administration team, with focus on open source technologies (LAMP, NodeJS, Tomcat/Java); VoIP Asterisk – FreePBX services, Mail and collaboration platforms, intranet services.   
+  
+▪ Management of Back-end IT Infrastructure, Networking, Private Cloud  
+Design, implementation and maintenance of highly available infrastructure platforms.   
+Strong experience on Xen Virtualization systems, CEPH and GlusterFS distributed storage.  
+Automated monitoring (Nagios/Centreon/SNMP), centralized logging (Splunk), and infrastructure auditing.  
+  
+▪ AWS IaaS Cloud services  
+Design and implementation of solutions based on Amazon Web Services, for the e-Health and Pharma market, oriented to HIPAA and ISO 27001 standards.  
+  
+▪ Information Security  
+Design and implementation of IT infrastructure security measures: Firewalls, Intrusion Detection Systems, Web Application Firewalls, VPN networking through OpenVPN.  
+Support to the development team for the implementation of security best practices and for the correct management of sensitive health data.  
+Auditing and monitoring for security incidents through centralized logging (Splunk SIEM).  
+Response and follow up (CAPA) to security incidents.  
+Advanced user of intrusion-detection, IDS/IPS, SIEM, vulnerability-scanning, Web Application Firewalls, proxy appliances tools.  
+Authored security architecture design documentation and standard operating procedures.   
+  
+▪ Service Quality Management  
+Design and implementation of services in compliance to ISO 9001 and ISO 13485 quality systems. Design and implementation of back-end services in compliance to italian and european data privacy policies. Editing of internal SOPs in Italian and English language.
+Consultant for IT infrastructures and security
+ENEA -  Portici, Campania
+Da settembre 2012 a giugno 2016
+As a member of the UTICT (Technical Unit for Information and Communications Technology) unit of the ENEA national research agency, my tasks included:  
+* High Performance Computing Cluster - administration and maintenance  
+Maintance and support to the operations of high performance computing clusters as part of the CRESCO Project (http://www.cresco.enea. it ), composed by more than 400 Linux servers, distributed 
+GPFS storage, fiberchannel backend connectivity.  
+* Private Cloud IaaS - design and implementation  
+Design, development and implementation of a private cloud IaaS based on OpenNebula, used by researchers for the execution of dedicated softwares. Published work during the GARR Workshop -–  
+Calculus and Distributed Storage, https://www.garr. it/ it/chi-siamo/documenti/presentazioni-convegni- 
+conferenze/workshop/wscsd-2012/1637-abstract-g-ponti/file  
+▪ VoIP infrastructure for Antarctica project - design and implementation  
+Design, implementation and operation of a Highly Availlable VoIP infrastructure based on Asterisk, employed by the Agency for the telecommunications with the italian research bases in Antarctica.  
+▪ Back-end Linux System Administration  
+Linux servers administration, distributed filesystems management (GPFS), distributed monitoring (Zabbix), centralized logging, LSF multicluster setup, management of remote access through NX,  
+setup and integration of new servers, centralized authentication services (LDAP, Kerberos5), bash scripting.  
+▪ Network Security  
+Implementation of IT security policies on network perimeter and services (Firewalls, Access policies, Intrusion Detection Systems). VoIP and Private Cloud services security.
+Instructor
+Da marzo 2009 a giugno 2009
+Linux System Administrator
+Eunetwork.Net Web/VPS Hosting Services -  Napoli, Campania
+Da 2004 a 2009
+- Linux System Administrator, for a web hosting, VPS hosting, streaming hosting agency.  
+- Support to customers and Helpdesk.
+Instructor
+Stoà - Superior institute of formation -  San Giorgio a Cremano, Campania
+Da settembre 2006 a giugno 2007
+Instructor during a Linux System Administration training course, for the IT personnel of the City of Naples public administration.
+Instructor
+Secondary Public School "A. Mozzillo", Afragola (Italy) -  Afragola, Campania
+Da settembre 2006 a giugno 2007
+Italy)  
+- Design and Implementation of a school laboratory based on Linux Ubuntu, using recycled and reconditioned PCs, in thin client mode.  
+- Instructor during training course for school teachers, on Linux and Free Software topics.
+Istruzione e Formazione
+High School Diploma in EQF level 4
+Liceo Scientifico "G.Pellecchia" -  Cassino, Lazio
+Da 2002 a 2019
+Erasmus Program in English language
+Tampere University of Technology -  Tampere, FI
+Da agosto 2009 a giugno 2010
+Master's degree in Security of Software Systems in Mathematical Methods for Cryptography
+Università degli studi del Molise -  Campobasso, Molise
+Bachelor degree in Computer Science in EQF level 6
+Università degli Studi del Molise -  Campobasso, Molise
+Competenze
+ISO (6 anni), Project Manager (2 anni), SOPs (Oltre 10 anni), linux (Oltre 10 anni), Xen (8 anni), Software Development Lifecycle Management (3 anni), Information Security (8 anni), IT Infrastructure (8 anni)
+Certificazioni/Licenze
+LPIC-1
+Linux Professional Institute Certification level 1
+Associazioni
+Napoli Linux users group
+Informazioni addizionali
+- Available to mediation and constructive criticism, needed in the management of heterogeneous teams where interaction and group spirit are indispensable means for the achievement of a shared goal.  
+- Experience in client relationship management and communication project stakeholders and outsourced resources.  
+- Daily use of the English language in spoken and written form for communication with clients and project stakeholders.  
+  
+- Good experience in the management of technical teams for software development, web development and system reengineering projects, gained as IT manager and Project manager.  
+- Strong relationship management skills with the client and integration with its team, gained during my activity as external consultant and as project manager.  
+- Workflow analysis and optimization skills, applied on the job with SOPs and process flow redefinition.   
+- Experience of IT operation management in compliance with ISO 13485 and ISO 9001 certified quality systems.  
+- Strong coaching and training skills acquired during my experience as technical instructor and system administration team leader.
+Autorizzo il trattamento dei miei dati personali ai sensi dell’art. 13 D.Lgs. 30 giugno 2003 n. 196 e dell’art. 13 del Regolamento (UE) 2016/679.

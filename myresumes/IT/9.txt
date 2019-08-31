@@ -1,0 +1,83 @@
+Responsabile IT
+Responsabile IT | Digital Innovation | COBIT®5 | AgilePM®
+Milano, Lombardia
+Ricopro il ruolo di Responsabile IT da oltre 14 anni. Mi sono occupato della gestione della funzione IT con particolare riguardo ai temi dell’innovazione tecnologica, dell’efficientamento dei sistemi in termini di stabilità e prestazioni, della sicurezza informatica (annovero due progetti di rilevo conclusi con successo, uno di conseguimento della certificazione ISO/IEC 27001 e l’altro di introduzione di un Security Operation Center specifico) e della business continuity.   
+  
+Durante gli anni in cui ho ricoperto questo ruolo, mi sono occupato della gestione del budget, della gestione e della negoziazione con fornitori di beni e servizi IT, della definizione dei piani pluriennali di sviluppo e di manutenzione dei sistemi, della gestione delle reti di telecomunicazione fissa e mobile. Ho avviato e concluso progetti di realizzazione dei sistemi informativi, infrastrutture di rete, sistemi di virtualizzazione della postazione di lavoro (VDI). Con particolare riferimento alle applicazioni, in particolare, annovero progetti di introduzione e/o sostituzione di sistemi gestionali ERP e HCM (human capital management), document e knowledge management, business intelligence e data warehouse.  
+  
+Nella mia prima esperienza lavorativa, invece, in forza come consulente presso Andersen Consulting (oggi Accenture), mi sono occupato di gestione dei progetti di sviluppo software, analisi dei processi aziendali, definizione dei flussi di dati, raccolta dei requisiti utente e specifiche funzionali, all’interno di grandi team di progetto.
+Esperienza lavorativa
+Responsabile IT
+Chiomenti - Studio Legale -  Milano, Lombardia
+Da dicembre 2014 a oggi
+Responsabile IT di una realtà di 450 persone, dislocate su 8 sedi (Milano, Roma, Londra, Bruxelles, New York, Pechino, Shangai, Hong Kong). Riporto al Management dello Studio.  
+  
+Risultati raggiunti  
+• Innovazione tecnologica ed efficientamento del Sistema Informativo, anche, in termini di stabilità e prestazioni.  
+• Rifacimento del sistema (non funzionante) di desktop remoto "VDI" (basato su tecnologia Citrix) per 450 persone.  
+• Migrazione delle reti e dei sistemi IT in un private cloud di un data center "TierIV" con applicazione di logiche ITIL.  
+• Proposto e consentito alla società di ottenere la certificazione internazionale ISO:27001.  
+• Analisi di costi e benefici per il passaggio del sistema ERP attuale ad uno basato su SAP S/4HANA.  
+• Migrazione dal sistema di posta elettronica Lotus Notes a Microsoft Exchange (con oltre 50mln di mail movimentate).  
+• Attuazione di un servizio di Security Operation Center (SOC) volto a monitorare il buon funzionamento del sistema di sicurezza e a segnalare in maniera proattiva eventuali attacchi informatici e/o vulnerabilità del sistema informativo.  
+• Adozione di un sistema di Document Management (con oltre di 30mln di documenti gestiti).
+Fondatore
+Giulia Catering and food Services -  Cape Town, ZA
+Da giugno 2012 a dicembre 2014
+A giugno 2012, insieme alla mia famiglia, mi sono trasferito in Sudafrica, a Cape Town dove ho fondato e gestito una società nel settore dei servizi food. successivamente, per ragioni personali, sono dovuto rientrare in Italia e ho, pertanto, lasciato il Sudafrica.
+Responsabile IT
+Bonelli Erede Pappalardo -  Milano, Lombardia
+Da aprile 2004 a giugno 2012
+In una realtà multinazionale di 430 persone, dislocate su 5 sedi, di cui due all'estero, mi è stata affidata la direzione del dipartimento IT, composto da 12 collaboratori diretti, da me selezionati e assunti, con riporto alla Direzione Generale.  
+  
+Risultati Raggiunti  
+• Realizzazione ex-novo di tutto il sistema informativo aziendale (comprendendo l'infrastruttura di rete, le telecomunicazioni fisse e mobili, l'architettura applicativa).  
+• Riduzione del budget di gestione dei sistemi grazie anche all'introduzione di tecnologie innovative e di minor costo ricorrente.  
+• Avvio di nuovi uffici in Italia e all'estero.  
+• Handover del sistema di contabilità italiano all'estero.  
+• Realizzazione di un Datacenter privato interno alla Società nella sede di Milano.  
+• Centralizzazione dei sistemi periferici in private cloud con tecniche di virtualizzazione.  
+• Un sistema di accesso da remoto mediante desktop remoto e web portal (con token di sicurezza).  
+• Adozione di un sistema di document/knowledge management e di conservazione sostitutiva dei documenti (dematerializzazione) con l'integrazione delle macchine di stampa e scanner mediante tecnologia a badge RFID.  
+• Avvio di un sistema di business intelligence basato su Oracle Hyperion.  
+• Adozione di una infrastruttura tecnologica Voice Over IP.  
+• Adozione di una infrastruttura di controllo e gestione degli accessi centralizzato a Milano.
+Responsabile IT
+Vedior Lavoro Temporaneo -  Milano, Lombardia
+Da dicembre 2000 a aprile 2004
+Mi è stata affidata la responsabilità della direzione del dipartimento IT con il riporto diretto all'Amministratore Delegato. Gestione dei collaboratori diretti e consulenti esterni, sviluppo interno e manutenzione dei sistemi s/w, h/w, di telecomunicazione. Gestione fornitori esterni, definizione politiche di sviluppo ICT aziendali.  
+Risultati Raggiunti  
+• creazione di una metodologia per lo sviluppo dei sistemi s/w.  
+• Definizione dei piani di gestione dei consuntivi.  
+• Passaggio all'euro.  
+• Handover del S.I. gestionale e di payroll.  
+• Sviluppo di un sistema di front/middle office e di data warehouse.  
+• Adozione di una infrastruttura moderna di TLC per il collegamento delle agenzie periferiche.
+IT Project Manager
+Alleanza Assicurazioni -  Milano, Lombardia
+Da gennaio 2000 a dicembre 2000
+Collocato nell'area dello sviluppo dei sistemi informativi, in un gruppo di lavoro incaricato della realizzazione di un sistema di gestione dei portafogli (ramo Vita) per le aziende Alleanza, Generali e Ina (progetto Vita di Gruppo). Mi è stata affidata la gestione del progetto di realizzazione del sistema di anagrafica e variazione del portafoglio.
+IT Senior Consultant
+Andersen Consulting -  Milano, Lombardia
+Da aprile 1996 a gennaio 2000
+Collocato all'interno del dipartimento technology, inizialmente, come programmatore software e database administrator (su piattaforma Oracle), poi come analista funzionale, fino ad arrivare a ricoprire il ruolo di IT Senior Consultant. Annovero le seguenti esperienze.  
+• RAS Assicurazioni - Sviluppo di un Sistema Informativo di call center. Gestione delle denunce e del sinistro 
+• Alleanza Assicurazioni - Analisi degli impatti del problema euro e anno 2000 sul Sistema Informativo aziendale  
+• Zurigo Assicurazioni - Analisi dei costi e dei tempi di sviluppo di un sistema di contabilità  
+• Cassa di Risp. di Firenze - Realizzazione di un Sistema Informativo per la gestione dei patrimoni mobiliari.
+Istruzione e Formazione
+Diploma di Perito Industriale Informatico in Informatica
+I.T.I.S. Ascanio Sobrero -  Casale Monferrato, Piemonte
+Da 2011 a 2016
+Laurea in Scienze dell'Informazione in Applicazioni e Databases
+Università degli Studi di Torino - Facoltà di Scienze matematiche Fisiche e Naturali -  Torino, Piemonte
+giugno 1994
+Competenze
+Disaster Recovery, IT Strategy, Business Intelligence, IT Management, Telecommunications, Data Center, Virtualization, Infrastructure, ERP, Data Warehousing, Business Continuity, Project management, Budget, Document Management, Knowledge Management, Licensing, ITIL, COBIT, Change management, Cloud computing, Agile Project Management, Databases, Enterprise Software, Business Impact Analysis, Human capital management, Digital Innovation, End User Computing, ICT Governance, ICT systems design and development, Technology Innovation, ICT Roll-Out/Handover, End user security, Tecnologie dell’informazione, Consulenza, Reti, AgilePM (Oltre 10 anni)
+Certificazioni/Licenze
+COBIT® 5
+Da agosto 2016 a oggi
+Corso e Certificazione in COBIT 5 Foundation
+AgilePM®
+Da giugno 2019 a oggi
+Autorizzo il trattamento dei miei dati personali ai sensi dell’art. 13 D.Lgs. 30 giugno 2003 n. 196 e dell’art. 13 del Regolamento (UE) 2016/679.

@@ -1,0 +1,173 @@
+Technical Team Leader - IT Architect - IT Specialist
+IT Architect - IT Specialist Networking
+Roma, Lazio
+Nel corso della mia attività professionale, soprattutto negli ultimi 10 anni, ho ottenuto  
+l'affidamento di progetti sempre più complessi ricoprendo diversi ruoli tra cui  
+IT Infrastructure Architect, Technical Team Leader oltre a quello di Specialista di prodotto.  
+Elemento per me fondamentale è il rapporto professionale e morale, ad operare insieme ad  
+altri colleghi del Team per seguire il progetto operativo, portandolo a termine seguendo  
+scrupolosamente le tempistiche stabilite e tenendo in ferma considerazione la qualità del  
+lavoro commissionato per la soddisfazione del cliente.  
+Attualmente rivesto la figura IT Specialist / IT Architect in IBM Global Technology Services,  
+con più di 15 anni di esperienza sia nel campo di architetture di rete per Data Center che  
+altri settori come: Sistemi Server, Voice over IP, Network Security,Vmware Specialist, SAN  
+Cisco.  
+Dopo alcuni anni di attività al Technical Support su sistemi server e reti, ho iniziato a  
+lavorare presso i clienti su tecnologie Cisco, Juniper, Nortel, Allied Telesyn, F5, Vmware,  
+Kvm.  
+Ho avuto l'opportunità di lavorare su molti clienti in progetti networking nelle varie tematiche  
+Routing & Switching, Network Security, Voice Over IP, Wireless.  
+Ottime conoscenze Hardware maturate nel corso della mia esperienza lavorativa.  
+Per un arricchimento professionale volto anche ad un miglioramento del mio stile di vita, e di  
+carriera , è mio interesse cercare nuove opportunità di lavoro.  
+  
+Certificazioni:  
+  
+Cisco Certified CCNA Routing&Switching  
+Personal ID: CSCO11464848  
+  
+Cisco Certified CCNP Routing&Switching  
+Personal ID: CSCO11464848  
+  
+Cisco Certified CCNA Data Center  
+Personal ID: CSCO11464848  
+  
+Cisco Certified CCNP Data Center  
+Personal ID: CSCO11464848  
+  
+Cisco Data Center Unified Computing Design Specialist  
+Personal ID: CSCO11464848  
+  
+Cisco Data Center Unified Fabric Design Specialist  
+Personal ID: CSCO11464848  
+  
+Juniper Certified JNCIA-EX  
+Personal ID: JPR67703  
+  
+Juniper Certified JNCIA-JUNOS  
+Personal ID: JPR67703
+Esperienza lavorativa
+Technical Team Leader - IT Architect - IT Specialist
+ALITALIA S.P.A
+Da maggio 2016 a dicembre 2018
+Ho curato in prima fase, lo spostamento dei servizi del Data Center di Magliana verso i nuovi "DATACENTER IBM", riprogettazione ed implementazione della nuova architettura di  
+rete dell' intero Campus di Fiumicino.
+IT Architect / IT Specialist
+Rinnovo tecnologico dei vari componenti di "rete"del Data Center
+Da 2016 a 2016
+2016 SIN ( SISTEMA INFORMATIVO NAZIONALE PER LO SVILUPPO DELL'A  
+GRICOLTURA)  
+Figura: IT Architect / IT Specialist  
+  
+Rinnovo tecnologico dei vari componenti di "rete"del Data Center, quali LAN switch,  
+bilanciatori e firewall, per risolvere problemi di obsolescenza e per potersi adeguare alle caratteristiche dei nuovi sistemi messi in campo, in particolare fornendo supporto alla  
+trasmissione dati a 10 Gbps (10G).
+IT Architect / IT Specialist
+Alenia Aermacchi S.P.A
+Da maggio 2015 a dicembre 2015
+A fronte di un Poc richiesto dal cliente da me sviluppato sulla tecnologia FcoE, è stato  
+commissionato il rinnovamento dell'attuale Data Center di Pomigliano, relativamente alla nuova infrastruttura rete del Team Center di con nuove Tecnologie.
+IT Architect / IT Specialist
+Enel
+Da febbraio 2014 a maggio 2015
+Il progetto riguarda il rinnovamento tecnologico di tutto il Data Center di Enel nella sede di Pozzuoli, lavorando in stretta collaborazione con Cisco System ho realizzato la nuova  
+infrastruttura di rete con tecnologia Fabric Path, occupandomi della progettazione e del delivery al fine di coordinare le fasi di  
+migrazione verso i vari servizi
+IT Specialist
+Gruppo Epresso
+Da maggio 2013 a dicembre 2013
+In questo cliente ho partecipato come Specialista Networking e Vmware nella realizzazione di un'infrastruttura di rete nel Datacenter BCRS IBM di Roma.  
+Per la parte Infrastructural Server, ho realizzato 3 cluster Vmware su Server PureFlex che  
+ospitava i nuovi servizi del cliente.
+IT Architect & IT Specialist
+INAIL
+Da 2013 a 2013
+Nel progetto di consolidamento e progettazione del Nuovo Datacenter di DR dell' ente Inail,  
+ricopro la figura di IT Architect/ IT Specialist, sfruttando le nuove piattaforme e architetture  
+Cisco Nexus 7000, Cisco Nexus 5000 e Cisco Nexus 1000v completamente orientato alla virtualizzazione. Oltre ai processi annessi alla virtualizzazione mi occupo di creare come  
+previsto nel progetto, una rete convergente sfruttando FcoE,
+IT Architect & IT Specialist
+Consip S.p.a
+Da giugno 2012 a dicembre 2012
+In questo progetto, ho curato la fase di progettazione ed implementazione dell'architettura  
+rete, sicurezza, e server farm del progetto CLOUD del MEF ( Ministero Economia e Finanza)  
+Nello specifico ho realizzato come previsto, due Data Center caratterizzati dalla tecnologia  
+"FcoE", sviluppando ed integrando una architettura SAN composta da Fabric Cisco MDS  
+9500 series che permettono l'estensione del traffico FC attraverso linee CWDM tra i due  
+Data Center.  
+Oltre a curare tali ambienti mi sono anche occupato dell'installazione del Cluster VMware su nodi HP C7000, realizzando in partnership con i colleghi IBM l'infrastruttura della nuova  
+Server Farm del Cloud MEF, composta da ambienti Microsoft Server 2008 e RedHat,
+IT Architect & IT Specialist
+Enel
+Da gennaio 2012 a maggio 2012
+Nella figura di Specialista Networking, ho partecipato alla realizzazione del nuovo Data  
+Center, provvedendo a fornire al cliente una soluzione basata su tecnologie Cisco in una infrastruttura di alta affidabilità ed in grado di soddisfare alte esigenze prestazionali.
+IT Specialist
+ADRTel
+Da agosto 2011 a dicembre 2011
+In questo periodo ho implementato nuove soluzioni di rete quali VSS di Cisco che hanno  
+permesso all'Infrastruttura di Rete Aeroportuale di ADRTel (Aeroporti di Roma), di migliorare  
+l'affidabilità dei servizi legati al taffico dati.
+IT Architet & IT Specialist
+Selex SI
+Da aprile 2011 a luglio 2011
+In questo periodo dopo una prima fase di assessment su di un infrastruttura ormai non piu  
+adatta alle richieste dei nuovi servizi, ho progettato e deliverato sia il nuvo Data Center che il nuovo Campus. Vista l'elevata importanza dei servizi pubblicati internamente all'azienda che  
+nella rete pubblica, sono stati utilizzati device Cisco Nexus 7K per l'ambinte di Data Center e Cisco 6509 in VSS per la parte Campus. Logicamente a fronte di un architettura esistente ho  
+dovuto reintegrare ed ottimizzare sistemi di bilanciamento F5, sistemi Blade Center H con soluzione rete integrata Nortel offrendo connettività ad un architettura Vmware ESX
+IT Specialist
+Wind
+Da giugno 2010 a marzo 2011
+Durante questo periodo ho effettuato attività di Assessment e Service delivery nell'enorme  
+Data Center di Wind S.p.A.  
+Data la grande mole di traffico del Network e l a necessità di riogarnizzare i servizi, ho avuto la possibilità di cooperare come Sistem Integrator con il support del Vendor Cisco nella  
+strategia d'implementazione, delle nuove feature messe a disposizione dalla famiglia dei  
+prodotti Data Center Nexus.  
+Il mio compito principalmente è stato quello di configurare ed integrare un' architettura  
+composta da vari VDC di Core N7k e Access N7k. Nella parte Core è stato adottato un routing dinamico utilizzando il protocollo Ospf  
+Nella parte di Access come in quella di Core è stata adottata la nuova tecnogia del Vpc in grado di offrire percorsi multipli paralleli gestendo il bilanciamento di traffico, annullando  
+l'intervento dello spanning tree al fine di ottenere una free loop topology.  
+In fase di sviluppo del nuovo DC, insieme al personale sistemistico di Wind abbiamo portato  
+avanti un piano di studio sulla miglior soluzione d'integrazione degli apparati di Bilanciamento di traffico (F5,), sicurezza (Nokia, Checkpoint ), sistemi integrati Blade.  
+Ho prestato la mia esperianza consolidata inambiente Server per poter implementare il sistema di monitoraggio Dcnm su piattaforma Red Hat, su Hw Blade.
+IT Networking Specialist
+INPS, ALITALIA, FIAT IVECO
+Da gennaio 2008 a giugno 2009
+Durante questi due anni principalmente sono stato coinvolto su progetti di Service Delivery  
+presso i clienti:  
+Inps: Ho implementato insieme a collegi Specilaisti in soluzioni Wireless, una nuova  
+arcitettura basata su sistema di controllo centralizzato, adottando la soluzione modulare di Cisco "Wism" su 6500 in VSS, per offrire al cliente telefonia Voip Wireless assicurando al  
+client Voip un eccellente qualità del segnale e affidabilità nel roaming.  
+Alitalia: ho riprgettato e configurato l'ambinte rete e Vmware Esx della parte di Dmz Web,  
+incrementando le prestazione di rete ed ottimizzando il bilanciamento di carico sulle lame, oltre ad agevolare il traffico dedicato alla rete di Vmotion.  
+Fiat Iveco: Presso lo stabilimneto di Avellino, ho  
+effettuato una Site Survey per poter poi sviluppare una soluzione Wireless basata su protocollo LWAPP di Cisco composta da Wlc 5508 ed Ap 1242.
+Sistemista di rete
+apparati 3com e Firewall Zyxel
+Da 2006 a 2006
+CISCO NETWORKING ACADEMY
+Da febbraio 2005 a dicembre 2005
+CNNA v3.1  
+Contenuti didattici:  
+1° modulo: modello ISO/OSI, mezzi di comunicazione, apparati di rete, indirizzi di rete,  
+standard per la progettazione delle reti locali, cablaggio strutturato  
+2° modulo: reti WAN, Router Cisco, protocolli di routing, networking troubleshooting.  
+3° modulo: TCP/IP, livello rete e trasporto, LAN switching, STP, Virtual LANs, ottimizzazione  
+del disegno di reti locali, liste di accesso, Novell IPX, Network Management.  
+4° modulo: reti WAN, disegno e ottimizzazione di WANs, PPP, ISDN, ISDN BRI e DDR,  
+frame relay e configurazione routers.
+Collaborazione commerciale con Siemens Italia
+Gruppo Capitalia Banca di Roma - Via Tupini
+Da novembre 2004 a marzo 2005
+Nella mansione di Sistemista, ho preso parte all'installazione di server IBM xSeries 306 e  
+335, alla configurazione dei clients Xp Professional, alla risoluzione dei problemi delle reti,  
+alla configurazione degli SNA Clients con emulatore 3270 ed al cablaggio strutturato.
+Istruzione e Formazione
+Diploma di Tecnico di Laboratorio Chimico e Biologico in Tecnico di Laboratorio Chimico e Biologico
+Istituto Galileo Galilei di Alatri (FR)
+Da 1997 a 1998
+Informazioni addizionali
+Capacita' personali  
+  
+Avere sempre la stessa passione per il mio lavoro,
+Autorizzo il trattamento dei miei dati personali ai sensi dell’art. 13 D.Lgs. 30 giugno 2003 n. 196 e dell’art. 13 del Regolamento (UE) 2016/679.

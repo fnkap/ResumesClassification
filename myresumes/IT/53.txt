@@ -1,0 +1,85 @@
+Senior IT Security Consultant
+Senior IT Security Consultant
+Milano, Lombardia
+Esperienza lavorativa
+Senior IT Security Consultant
+PRAXAIR/Nippon Gases Europe -  Brussels
+Da settembre 2018 a maggio 2019
+-Brussels/Madrid/Milan  
+Support in the Praxair European business divesting process and new IT GRC Team coaching. ISMS design and implementation based on ISO 27001 requirements, security strategy definition to increase Cyber security maturity. ISO 27001 GAP Assessment, controls framework definition, ISMS and policies development based on the Praxair, Nippon Gases and Mitsubishi Group requirement according the defined timeline. Business Continuity Policy and Business Continuity Plans and Processes definition.
+Consultant
+IT GRC -  Amsterdam, NL
+Da settembre 2017 a giugno 2018
+ING - Amsterdam  
+Security measures planned and implemented. SOX controls ToD and ToE defined and documented in an Agile environment. Support to the Agile development and operational teams. Applications security documentation reviewed and updated.
+IT Security Architect
+Euroclear -  Brussels
+Da settembre 2016 a aprile 2017
+- Bruxelles (BE)  
+I determined security requirements: planning, implementing, and testing security systems. I determined security requirements by evaluating business strategies and requirements; researching information security standards; conducting system security and vulnerability analyses and risk assessments; studying architecture/platform; identifying integration issues; preparing cost estimates. I planned security systems by evaluating network and security technologies; developing requirements for local area networks (LANs), wide area networks (WANs), virtual private networks (VPNs), routers, firewalls, and related security and network devices.
+Senior IT Auditor
+IT GRC -  Milan, IT
+Da aprile 2016 a agosto 2016
+Lombardia Informatica - Milan (I)  
+Security measures and Security strategy defined. Policy and Procedures developed. Business Continuity Planning and testing, ISO 27001 Policy & Procedures development. IT Risk Assessment.  
+eIDAS ETSI standards implementation. Cloud implementation support.  
+Senior IT Auditor
+Senior IT Security Consultant
+European Commission -  Valletta
+Da gennaio 2016 a giugno 2016
+Malta  
+IT Risk Management methodology developed and applied. Systems security plan develop. EC Security Standards & ISO 27001 Compliance Gap Analysis. Business Impact Assessment methodology developed and implemented. Security measures and Security strategy defined.
+Team Mate. Data Analytics (ACL/Arbutus)
+GM Financial -  High Wycombe
+Da gennaio 2015 a dicembre 2015
+High Wycombe (UK)  
+Assessment of server security, disaster recovery, general computer controls. Work with various businesses and IT groups to understand how IT systems are used in accordance with established policies, processes, and controls to evaluate proper risk levels and design appropriate controls testing procedures. Identify gaps in the design and implementation of IT or business processes and controls. Integrated Audits. Team Mate. Data Analytics (ACL/Arbutus).
+IT Security & Operations Manager
+Banca ITB -  Milan, IT
+Da maggio 2013 a dicembre 2014
+Milan (Italy)  
+Service Delivery and IT Security Manager (20 people managed).Positioned as Lead Subject Matter Expert for IT Compliance & Governance. SIEM (ArcSight) implementation. IT Processes review to be compliant with the Banca d'Italia Circular 263. IT Risk Assessment and Business Continuity.
+IT Audit Manager
+Banca Sella Holding -  Biella, IT
+Da maggio 2007 a maggio 2013
+Biella (Italy)  
+Technology Audit assignments across the business, assessing and testing controls, providing assurance and making suitable recommendations for improvement where necessary. SIEM (RSA and ArcSight) and NIDS (IMPERVA, HP, Cisco) refined to analyze security events and incidents. Support in creating new information security policies, procedures and processes encompassing all departments and positions thereby increasing productivity. PCI-DSS implementation support and review. Planned, performed and reported Internal Audit reviews ensuring the on-target delivery of audit work and that each assignment has been executed in line with professional and departmental standards.
+IT Internal Auditing Director
+Natuzzi, Bari
+Da dicembre 2006 a gennaio 2007
+I)  
+IT Auditing department builder. SOX controls framework developer. IT Infrastructure, Unix, Windows, ERP assessment.
+IT Internal Auditing Director& IT SOX Compliance Officer
+TNT Logistics -  Milan, IT
+Da settembre 2004 a dicembre 2006
+Milan / Amsterdam (NL)  
+Active hands-on leadership of the Information Security Program. BU Italy&South America IT SOX compliance manager. IT Auditing department builder and trained the IT Security Professionals. SOX controls framework developer. IT Infrastructure, Unix, Windows, ERP assessment.
+Professional Services Manager
+Emaze Networks -  Milan, IT
+Da luglio 2003 a agosto 2004
+Milan, Italy  
+I have defined the catalog of IT Security services and managed the start-up of the Professional Services Department. Teacher of Vulnerability and Risk Management methodologies at the Master in "Sicurezza Informatica" at Università di Milano. Trainer for the Polizia Postale (cybercrime Police). Business Development and Solution Development: preparing written proposals and formal presentation to clients and prospective clients. Project Management. In this phase I have acquired experience in full lifecycle enterprise-wide networking systems design, engineering, development, implementation, security and support.
+Senior Security Consultant
+Ubizen -  Milan, IT
+Da marzo 2002 a luglio 2003
+Milan, Italy &Louvain, Belgium  
+Main technical point of contact for Ubizen for all the projects in Italy. SIEM implementation. NIDS& HIDS implementation. Firewalling design and implementation'. Vulnerability assessment e network security assessment. Risk appetite framework development. Managed security services (MSS) projects manager for primary national financial institutions. SEAM technology implementation manager for primary international banks.
+Chief Information Security Officer
+Enterprise Information Security -  Rome, IT
+Da maggio 2000 a marzo 2002
+Italy  
+Responsible for Enterprise Information Security, including the design, development and implementation of an Information Security Program and Information Security Architecture for a nationwide, distributed, networked computing environment. Enterprise Information Security involved the design and implementation of an Information Security Program and Information Security Architecture. Software Configuration Management design and implementation across multiple platforms;
+Project manager
+Siemens ICN
+Da settembre 1996 a maggio 2000
+Milano, Madrid and other International Locations  
+Important projects managed in Italy, Europe, Africa & Asia (implementation of TNM infrastructure and delivery/pre-sales/post-sales team builder). Unix based IS for TNM planning, delivery and post-sales activities. Cisco based networks planning and delivery supporting TNM infrastructures. Post sales team builder (4 people managed)
+Istruzione e Formazione
+Bachelor in Electronic Engineering
+Politecnico di Milano
+Competenze
+SECURITY (Oltre 10 anni), SIEM (9 anni), TESTING (7 anni), PAYMENT CARD INDUSTRY (6 anni), PCI (6 anni)
+Informazioni addizionali
+SKILL SUMMARY  
+Expert in IT Security with more than 23 years of experience in IT Risk assessment & Management, DLP, ISMS design and implementation, IT Security Architectures, ICT Auditing, security event correlation and analysis principles and technology (i.e. SIEM technology, NIDS and HIDS), Vulnerability Assessment and Ethical Hacking. Expert in Business Impact Analysis and DR/BC Planning & Testing. In-depth knowledge and full understanding of the main GRC compliance, IS Auditing and IT Governance processes. Familiarity with Security, Auditing and General IT principles and techniques appropriate to large/medium/small enterprises, including IT architecture; data centre operations; cloud services; networking; software development processes, change management. Excellent understanding of ISO 2700X, NIST, COBIT, GDPR, PCI DSS & Sarbanes-Oxley.
+Autorizzo il trattamento dei miei dati personali ai sensi dell’art. 13 D.Lgs. 30 giugno 2003 n. 196 e dell’art. 13 del Regolamento (UE) 2016/679.

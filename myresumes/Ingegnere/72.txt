@@ -1,0 +1,30 @@
+Ingegnere di sistemi motore
+Edoardo Foti Gargano - Ingegnere Aerospaziale
+Roma, Lazio
+Sono un ingegnere aerospaziae di 28 anni. Sono cresciuto in Sicilia, per poi trasferirmi a Roma, dove ho conseguito la laurea nel 2017. Mi sono specializzato in propulsione chimica e combustione, spinto dalla passione per la meccanica, in particolare per i motori ed essenzialmente per le macchine motrici, che considero la massima espressione dell'ingegneria. Focalizzo costantemente i miei sforzi e i miei studi in questa direzione, per contribuire ad un futuro migliore e più pulito per l'umanità.
+Esperienza lavorativa
+Ingegnere di sistemi motore
+Amaris - Leonardo Elicotteri -  Samarate, Lombardia
+Da giugno 2019 a oggi
+Impianti ed installazione motore per velivolo convertiplano.
+Solid rocket motor designer
+Avio S.p.A -  Roma, Lazio
+Da luglio 2018 a dicembre 2018
+La mia attività è stata la definizione preliminare di un lanciatore multistadio. Ho studiato estensivamente i motori a propellente solido, l'ambiente aerodinamico dove operano e i loro processi di produzione, al fine di delineare un metodo di progettazione ed ottimizzazione multidisciplinare, basato sull'eredità aziendale e sui requisiti generali di sistema, che ho poi implementato in MATLAB.
+Analisi numerica di motori al plasma
+Sitael S.p.A. -  Pisa, Toscana
+Da ottobre 2016 a luglio 2017
+Ho eseguito simulazioni numeriche sui motori al plasma, al fine di caratterizzarne le prestazioni ed il comportamento del plasma. Ho utilizzato un modello di plasma sviluppato precedentemente in Sitael per validare le configurazioni principali di un prototipo ad alta potenza. Il modello è stato implementato in un codice MATLAB, di cui ho esteso le funzionalità, e sviluppatone alcune personalmente.
+Istruzione e Formazione
+Master in Sistemi di Trasporto Spaziale
+La Sapienza Univesità di Roma -  Roma, Lazio
+Da dicembre 2017 a dicembre 2018
+Laurea Magistrale in Ingegneria Spaziale e Astronautica
+La Sapienza Università di Roma -  Roma, Lazio
+Da settembre 2013 a luglio 2017
+Laurea in Ingegneria Aerospaziale
+la Sapienza Università di Roma -  Roma, Lazio
+Da ottobre 2010 a luglio 2013
+Competenze
+matlab, simulink, fortran, catia v5, openfoam, nastran, femm 4.2, lingua inglese livello avanzato, lingua francese livello base, lingua russa livello base, linux, windows, microsoft office
+Autorizzo il trattamento dei miei dati personali ai sensi dell’art. 13 D.Lgs. 30 giugno 2003 n. 196 e dell’art. 13 del Regolamento (UE) 2016/679.

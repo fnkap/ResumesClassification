@@ -1,0 +1,146 @@
+Supporto tecnico
+Fermo, Marche
+Esperienza lavorativa
+Supporto tecnico
+Sigma Spa
+Da gennaio 2012 a oggi
+Esperto di ingegneria di manutenzione  
+Sigma Spa  
+Rubbianello (Fm)  
+  
+Supporto tecnico di secondo livello su apparati Ticket Vendor Machine per clienti nel territorio nazionale ed estero ( Trenitalia-NTV-Intercent-ATAF-LG-Carifermo-ACTV-ASF-ASPO-CTT-ASFINAG-ACAM-IREN-OASA Grecia-C2C Londra ed altri )  
+Troubleshooting su problematiche hardware-software  
+Supporto da remoto a tecnici on site, helpdesk e clienti  
+Interventi di problem solving da remoto tramite VPN  
+Presidio su installazioni di nuovi prodotti  
+Analisi file di log  
+Pianificazione interventi di migliorie su apparati già installati  
+Gestione aggiornamenti apparati  
+Sopralluoghi su siti di installazione  
+Gestione roll out prodotto  
+Rapporto con i clienti  
+Gestione anagrafica del parco macchine tramite database  
+Progettazione e sviluppo di software di controllo remoto  
+Analisi predittiva su guasti e ciclo di vita dei vari componenti a bordo dei prodotti  
+Analisi e reportistica sui prodotti installati  
+Monitoraggio parco macchine  
+Analisi e gestione della risoluzione di criticità HW-SW sui prodotti.  
+Redazione di manuali di installazione, operativo e manutenzione sui prodotti  
+Redazione di procedure, FAQ e guide specifiche per i manutentori e clienti  
+Redazione di documentazione tecnica per migliorie su prodotti già installati.  
+Formazione e corsi di aggiornamento HW/SW per manutentori e clienti
+Tecnico EDP
+call center Call2U di Civitanova Marche -  Civitanova Marche, Marche
+Da giugno 2011 a gennaio 2012
+Installazione e configurazione di:  
+Rack server e di rete, switch, ups, nas, dat, pc fissi e portatili, server, router, stampanti e fax.  
+Cablaggio standard A/B patch panel-switch e configurazione rete locale.  
+Gestione di tutto l'apparato informatico e di rete.  
+Gestione e monitoraggio della piattaforma integrata nel call center: IFM Phones e CRM Revos, monitoraggio della sala operatori, troubleshooting su problematiche hardware e software.  
+Gestione delle campagne e dei relativi nominativi tramite Sql Server.  
+Backup schedulati.  
+SO utilizzati: Windows server 2003-2008 e Windows 7  
+Tecnologia server: Fujitsu-Siemens-Dell
+Tecnico IT
+Segesta -  Bologna, Emilia-Romagna
+Da ottobre 2010 a marzo 2011
+Consulente informatico presso l'European Genetics Foundation di Bologna.  
+Gestione sistemistica e di rete in LAN mista ( linux-windows).  
+Gestione server di posta Microsoft Exchange e configurazione clients.  
+Configurazione di NAS centralizzato e Active directory.  
+Help desk e troubleshooting software/hardware  
+Web Casting live e on-demand: installazione e configurazione audio/video di un sistema in streaming e gestione di corsi live.
+Collaboratore
+Action2/Azitek s.r.l -  Milano, Lombardia
+Da luglio 2010 a ottobre 2010
+Realizazzione di supporto multimediale per il seguente volume scolastico:  
+Scienze e tencologie applicate: prima edizione Febbraio 2011 Autori: Coppelli-Stortoni
+Tecnico/Consulente IT
+Action2/Azitek s.r.l -  Bologna, Emilia-Romagna
+Da gennaio 2009 a ottobre 2010
+Amministratore di sistema presso IT Telecom di Bologna, per conto di Hewlett Packard, per il Customer Relationship Management (CRM) di Telecom Italia.  
+Il progetto prevede la gestione sistemistica su server HP ( Superdome) in Alta affidabilità in ambiente Mission-Critical.  
+Capacità:  
+Installazione e customizzazione di sistemi hp-ux 11.11, 11.23 e 11.31  
+Gestione LVM/Veritas  
+Gestione di MC/Service Guard anche su Datawarehouse  
+Gestione e configurazione server Ignite/UX.  
+Clonazione sistemi e golden image  
+Installazione e gestione del software di monitoraggio HP-SIM  
+Approfondimenti di shell script.  
+Gestione dischi su Storage EMC2 in particolare utilizzo del software Powerpath e Symcli di EMC2.  
+Esperienza maturata di configurazione di partizioni virtuali (Vpar e Virtual Machine) e di installazione/configurazione/restore delle stesse mediante server Ignite/UX  
+Analisi Dump e ottima esperienza nel Problem Solving Hardware e di S.O.  
+Implementazione, manutenzione e tuning dei sistemi in esercizio.  
+Contatto diretto con i fornitori per sostituzione hardware in fault.  
+Utilizzo di Remedy per gestione trouble tickets.  
+Analisi della sicurezza e patching dei sistemi.
+Collaboratore
+Action2/Azitek s.r.l -  Milano, Lombardia
+Da settembre 2008 a dicembre 2008
+Realizazzione di 2 CD multimediali allegati ai seguenti volumi scolastici:  
+Elettrotecnica ed Elettronica Volume 1: prima edizione Gennaio 2009 Autori: Coppelli-Stortoni
+Disegnatore tecnico
+Action2/Azitek s.r.l -  Milano, Lombardia
+Da marzo 2001 a aprile 2008
+Autore di disegni tecnici riguardanti i seguenti volumi:  
+Moduli di elettronica - prima edizione marzo 2001. Autori: Coppelli-Stortoni  
+Moduli di elettrotecnica - prima edizione gennaio 2002. Autori: Alessi-Trasatti  
+Controlli elettronici e sistemi programmabili - prima edizione marzo 2002. Autori: Coppelli-Stortoni  
+Elettrotecnica generale - prima edizione marzo 2003. Autori: Alessi-Cognigni  
+Macchine elettriche per elettrotecnici - prima edizione marzo 2004. Autori: Alessi-Cognigni  
+Macchine elettriche per elettronica - prima edizione gennaio 2005. Autori: Alessi-Cognigni  
+Elettronica digitale - prima edizione marzo 2008. Autori: Coppelli-Stortoni
+Collaboratore
+Elettrotecnica ed Elettronica Volume
+Da aprile 2007 a dicembre 2007
+2: prima edizione Gennaio 2009 Autori: Coppelli-Stortoni  
+  
+e di 2 CD multimediali nella versione per insegnanti  
+  
+04/2007-12/2007  
+Collaboratore  
+Azienda Trasatti Daniele - Porto San Giorgio (Fm)  
+  
+Collaboratore incaricato nella realizzazione dei seguenti progetti:  
+Installazione e configurarazione di una piattaforma di e_learning (LMS) ed un sistema CMS integrato a questo (LCMS) di tipo Open Source ( Docebo ) su un server Linux. Supportaggio e monitoraraggio della piattaforma nell'ambito di una iniziativa formativa.  
+Implementazione Voip su piattaforma linux con Asterisk in una rete aziendale.
+Istruzione e Formazione
+Laurea in ingegneria informatica e dell'automazione in ingegneria informatica e dell'automazione
+Università Politecnica delle Marche
+Da 2002 a 2007
+Competenze
+CRM (2 anni), Customer Relationship Management (2 anni), EMC POWER PATH (1 anno), hp-ux (1 anno), informatica (5 anni)
+Informazioni addizionali
+Conoscenze informatiche  
+  
+Hardware  
+SuperDome 32/64 PA/IA, RPxx, L2000 - Workstation e server HP (cluster), PC, architetture x86, Nas, raid5, router, server, switch, dat/tape, patch panel, ups, dvr, dvs, accettatori monete, accettatori banconote, lettori rfid, lettori barcode, stampanti termiche ed altro.  
+  
+Sistemi operativi  
+Windows: Server 2003-2008/Xp/Vista/7/8.1/10  
+Hp-ux 11.11/11.23/11.31  
+Linux: Red Hat, Debian, Ubuntu, Centos, Trixbox, Suse e altre distribuzioni minori.  
+FreeBSD  
+  
+Linguaggi di programmazione Bash, shell script, C, VB.NET, Php-Mysql, Java-Script, batch, Html.  
+Applicativi  
+Office: Word, Excel, Outlook, Powerpoint, Visio  
+Server mail: Microsoft Exchange  
+Sql: Microsoft SQL Server, Mysql  
+Gestione dischi e backup: Symcli, Powerpath, HP Ignite Server  
+Monitoraggio: HP Sim  
+Virtualizzazione: VirtualBOX, Vmware, HP Virtual Partition, HP Virtual Machine  
+Cluster: MC/ServiceGuard di HP  
+CRM: Revos  
+CMS: Docebo, Drupal, Joomla, Microsoft Sharepoint  
+Voip e telefonia: Asterisk, Trixbox, IFM Phones  
+Disegno: Autocad, Corel Draw, Photoshop, Gimp  
+Gestione: JDE-Tesis-Remedy  
+  
+VPN: OpenVpn - Cisco VPN Client  
+  
+Sicurezza informatica  
+Conoscenza avanzata in sicurezza informatica, con aggiornamenti periodici per quanto riguarda sistemi Windows, Linux e Hp-ux.  
+Attacchi informatici: prevenzione e difesa.
+Autorizzo il trattamento dei miei dati personali ai sensi dell’art. 13 D.Lgs. 30 giugno 2003 n. 196 e dell’art. 13 del Regolamento (UE) 2016/679.

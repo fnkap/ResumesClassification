@@ -1,0 +1,82 @@
+Ingegnere R&D
+Ingegnere R&D - lavoro Baruffaldi Spa
+Peschiera Borromeo, Lombardia
+Esperienza lavorativa
+Ingegnere R&D
+lavoro Baruffaldi Spa -  Tribiano, Lombardia
+Da novembre 2017 a oggi
+- Tribiano (MI)  
+• Tipo di azienda o settore Metalmeccanico - Automotive  
+• Tipo di impiego Ingegnere R&D  
+• Principali mansioni e responsabilità Esecuzione analisi FEM statiche lineari/non lineari, modali e a fatica per frizioni settore  
+automotive (Altair Hyperworks, Nastran);  
+Esecuzione verifiche di organi meccanici secondo normative ISO mediante fogli di calcolo  
+Excel/Macro VBA (pulegge, cuscinetti, viteria);  
+Allestimento ed esecuzione prove di vibrazione su shaker table (interne/laboratori esterni);  
+Analisi risultati prove tramite codici implementati e verificati (Python);  
+Stesura relazioni di calcolo;  
+Disegno di componenti tramite software Creo Direct.
+Analista Strutturale
+lavoro Phitec Ingegneria Srl -  Rivoli, Piemonte
+Da maggio 2017 a novembre 2017
+- Rivoli (TO)  
+• Tipo di azienda o settore Consulenza Ingegneristica - Automotive  
+• Tipo di impiego Analista Strutturale
+lavoro Phitec Ingegneria Srl
+Da maggio 2017 a novembre 2017
+Esecuzione analisi FEM non lineari, modali per attacchi cinture di sicurezza e sistema di scarico
+impatto testa
+Piaggio Spa (Altair Hyperworks, BetaCAE Ansa Radioss, Nastran)
+Da febbraio 2017 a aprile 2017
+Meshatura modelli di seggiolini per bambini per simulazioni esplicite (Altair Hypermesh);  
+Stesura relazioni di calcolo.  
+Presso Pininfarina Spa (15/02/17 - 30/04/17)  
+Esecuzione analisi FEM esplicite (impatto testa su zona anteriore veicolo), statiche (verifica a rigidezza portello posteriore) e modali su componenti metalliche e in composito (Altair Radioss,  
+Nastran);  
+Stesura relazioni di calcolo.  
+  
+Pagina 2 - Curriculum vitae di
+Analista Strutturale
+lavoro Dallara Automobili Spa
+Da novembre 2015 a novembre 2016
+- Varano De Melegari (PA)  
+• Tipo di azienda o settore Metalmeccanico - Automotive  
+• Tipo di impiego Analista Strutturale  
+• Principali mansioni e responsabilità Esecuzione analisi FEM esplicite (studio e alleggerimento struttura rollhoop per veicolo GP2),  
+statiche non lineari e a fatica (verifica assieme ordinata motore, verifica forcelle e bracci  
+sospensioni vettura da competizione Les Mans) su strutture metalliche e in materiale composito  
+vettura Formula E (Altair Hyperworks, Nastran, Abaqus, NCode DesignLife, Radioss).  
+Stesura relazioni di calcolo.
+Istruzione e Formazione
+Laurea Magistrale in Ingegneria Aeronautca in Indirizzo Strutture
+Politecnico Di Milano -  Milano, Lombardia
+Da ottobre 2012 a settembre 2015
+Laurea di Primo Livello in Ingegneria Aerospaziale in Ingegneria Aerospaziale
+Politecnico Di Milano -  Milano, Lombardia
+Da settembre 2009 a febbraio 2013
+Liceo Scientifico Statale "Alessandro Volta" -  Milano, Lombardia
+Da settembre 2004 a luglio 2009
+Competenze
+Abaqus (1 anno), Creo (1 anno), Nastran (2 anni), PATRAN (2 anni), Python (1 anno)
+Informazioni addizionali
+CAPACITÀ E COMPETENZE  
+RELAZIONALI  
+  
+Durante le mie esperienze lavorative e di studio ho avuto modo di sviluppare:  
+Capacità di interfacciarmi e cooperare con colleghi di diversi dipartimenti aziendali. Sia in ambito  
+progettazione che con superiori.  
+Gestione della tensione e della comunicazione con colleghi/compagni di corso in situazioni tese.  
+  
+CAPACITÀ E COMPETENZE  
+INFORMATICHE  
+  
+Utilizzatore abituale Windows/Linux;  
+Buona conoscenza pacchetto Office;  
+Buona conoscenza Matlab, Python e C (calcoli).  
+Discreta conoscenza di VBA;  
+Buona conoscenza MSC Nastran/Altair Optistruct;  
+Discreta conoscenza Dassault Abaqus;  
+Buona conoscenza Altair Hypermesh/BetaCAE Ansa;  
+Discreta conoscenza Solidworks, Inventor e PTC Creo;  
+Conoscenza software PLM PTC Windchill, Siemens Teamcenter.
+Autorizzo il trattamento dei miei dati personali ai sensi dell’art. 13 D.Lgs. 30 giugno 2003 n. 196 e dell’art. 13 del Regolamento (UE) 2016/679.

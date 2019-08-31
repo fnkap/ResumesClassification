@@ -1,0 +1,57 @@
+IT System Administrator
+IT System Administrator - Crs Immagine Srl
+Moncalieri, Piemonte
+Ho iniziato a lavorare nel 2011 come tecnico help desk di primo livello.   
+Nel tempo ho migliorato le mie capacità fino a gestire da solo il parco clienti, organizzando in autonomia interventi da remoto e in sede per piccole e medie imprese fino a 50 dipendenti.   
+Nel 2018 l’azienda per cui lavoravo (Colorit) si è unita al suo cliente maggioritario facendomi svolgere gli stessi compiti svolti fino ad all’ora con maggiori responsabilità.   
+Nei prossimi anni la tecnologia aiuterà sempre maggiormente a snellire e gestire il lavoro nelle aziende, quindi in futuro mi immagino a far da tramite tra le persone e la tecnologia per aiutarle ad usufruire al meglio dei vantaggi portati dalla rivoluzione digitale.
+Esperienza lavorativa
+IT System Administrator
+Crs Immagine Srl -  Torino, Piemonte
+Da marzo 2018 a oggi
+Attività o settore: Informatica (Software e servizi IT)  
+Mansioni: Gestione farm server (Windows Server 2008/2012, Linux Gentoo, Ubuntu, Centos)  
+assistenza da remoto o in sede su client e server per problematiche hardware e software  
+creazione e manutenzione siti web gestiti in Wordpress  
+creazione e manutenzione database relazionali MySQL  
+gestione reti e policy di rete (apparati maggiormente usati Zyxel e Fortinet)  
+gestione offerte clienti, rapporto con fornitori
+IT Specialist
+Colorit Srl Via Tempio Pausa -  Torino, Piemonte
+Da settembre 2011 a marzo 2018
+Attività o settore: Informatica (Software e servizi IT)
+Istruzione e Formazione
+Corso IFTS
+tecnico superiore per lo sviluppo software -  Moncalieri, Piemonte
+Da 2010 a 2011
+Competenze
+Windows Server 2003/2008/2012/2016 (6 anni), Linux (Gentoo, Ubuntu, CentOS) (6 anni), Mac OSx (8 anni), Windows XP, 7, 8, 10 (8 anni), Wordpress (5 anni)
+Certificazioni/Licenze
+Zyxel Certifid Network Engineer
+Da maggio 2019 a oggi
+ZCNE 1° Livello Certified
+Zyxel Certified Network Engineer
+Da giugno 2019 a oggi
+ZCNE 1° Livello - Cloud Networking Certified
+Informazioni addizionali
+COMPETENZE PERSONALI  
+  
+Competenze * OS Microsoft Server - esperto - 5 anni esperienza  
+▫ Hyper-V, Virtual switch, VM, Replica, Failover cluster, Active Directory, DNS, DHCP, share, NIC  
+Team, IIS, etc. Windows Server 2003, 2008, 2012, 2016.  
+* OS Microsoft e Apple client - esperto - 8 anni esperienza  
+▫ Windows XP, 7, 8, 10, OSx.  
+* OS Linix - intermedio - 6 anni esperienza  
+▫ Dns, Apache, vsftp, dbmail, Nagios, crontab, etc. Debian, Ubuntu, Gentoo  
+* Firewall e apparati di rete - esperto - 8 anni esperienza  
+▫ Load Balancing, UTM policy, antispam, antivirus, filtri navigazione, VPN etc. Zyxel, e Fortinet  
+* MySQL, MSSQL - intermedio - 6 anni esperienza  
+▫ MariaDB, Mysql, Galera e MSSQL.  
+* Wordpress - avanzato - 8 anni esperienza  
+* Adobe Suite - medio - 6 anni esperienza  
+▫ Photoshop, Illustrator, Indesign, Adobe Pro.  
+* Configurazione sistemi di videosorveglianza - esperto - 8 anni di esperienza  
+▫ DVR, NVR, Acti Samsung, Mobotix, Atlantis, etc.  
+* Google AdWords e Google Analytics - intermedio - 6 anni di esperienza  
+* HTML, PHP - base
+Autorizzo il trattamento dei miei dati personali ai sensi dell’art. 13 D.Lgs. 30 giugno 2003 n. 196 e dell’art. 13 del Regolamento (UE) 2016/679.

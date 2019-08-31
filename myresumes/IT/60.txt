@@ -1,0 +1,201 @@
+IT Technical Coordinator - Release Manager
+IT Technical Coordinator - Release Manager - Vodafone
+Milano, Lombardia
+Esperienza lavorativa
+IT Technical Coordinator - Release Manager
+Vodafone
+Da luglio 2017 a oggi
+Tipo di attività o settore Telecomunicazioni  
+Nome e indirizzo del datore di lavoro: Vodafone, Via Lorenteggio 240, Milano (MI)  
+  
+Principali attività e responsabilità: IT Technical Coordinator - Release Manager  
+• Coordinamento team di release software, suddiviso in gruppi di gestione delle fasi pre, durante e post release  
+• Pre Release  
+✓ Predisposizione attività di rilascio software delle Release Commerciali e Tecniche  
+✓ Gestione fase di pre deploy (release scope, change requests, bug fix, risks, issues)  
+✓ Valutazione impatti cross sistema  
+✓ Definizione e gestione del resource planning e relativo monitoring tramite avanzamenti  
+operativi  
+• Release/Rollout  
+✓ Governance piano di deploy e dettaglio attività tecniche da veicolare sui gruppi di lavoro  
+(Supporto Applicativo, Middleware, DBA, Sistemisti, Network)  
+✓ Coordinamento fasi di rilascio software (chiusura controllata sistemi, installazione software,  
+sanity check, riapertura sistemi, test)  
+✓ SPOC attività, piano di comunicazione ed activity coordinator  
+• Post Release  
+✓ Presidio post avvio e monitoring anomalie tecniche e funzionali  
+✓ Issue management  
+✓ Gestione errori di fatturazione  
+✓ Task force per analisi bug, risoluzione, pianificazione bug fix e bonifica  
+• Release plan delle Major e Urgent release  
+• IT SOX Compliance, Sarbanes-Oxley accountability  
+• Dashboard di controllo e reporting release  
+• Predisposizione analisi dati e report per Top Management
+IT Release Coordinator
+Vodafone
+Da marzo 2016 a giugno 2017
+Tipo di attività o settore Telecomunicazioni  
+Nome e indirizzo del datore di lavoro: Vodafone, Via Lorenteggio 240, Milano (MI)  
+Principali attività e responsabilità: IT Release Coordinator  
+• Predisposizione attività di rilascio software delle Release Commerciali e Tecniche  
+• Gestione fase di pre deploy (release scope, change requests, bug fix, risks, issues)  
+• Pianificazione calendario release Major e Urgent  
+• Approvazione deroghe di consegna dei kit software  
+• Valutazione impatti cross sistema
+IT Team Lead
+Accenture Technology, Strada Quattro, Assago (MI)
+Da settembre 2012 a marzo 2016
+Tipo di attività o settore Consulenza IT  
+Nome e indirizzo del datore di lavoro: Accenture, Strada Quattro, Assago (MI)  
+  
+Principali attività e responsabilità: Release Manager delle iniziative relative ai sistemi informatici di ENI Gas&Power, per tutti i processi  
+inerenti il CRM, metering e meter to cash  
+Durante questa esperienza ho ricoperto i seguenti ruoli:  
+  
+• Da Dicembre 2014  
+Release Manager delle iniziative progettuali ed evolutive della piattaforma di gestione CRM  
+Siebel e dei processi di Metering, ivi compreso il colloquio con il distributore per le forniture gas  
+ed elettriche. In particolare mi occupo di:  
+✓ Pianificazione e coordinamento dei 5 stream progettuali del programma, condivisione delle modalità di gestione di risks & issues con i relativi PM d'area  
+✓ Definizione e gestione del resource planning e relativo monitoring tramite avanzamenti  
+operativi  
+✓ Attività di client facing: definizione del piano di comunicazione, partecipazione ai SAL dei gruppi Operations e ICT Demand  
+  
+• Da Gennaio 2014  
+Development Lead dei gruppi di delivery dei sistemi di CRM Siebel, integrazione e metering. In  
+particolare mi occupavo di:  
+✓ Coordinamento delle attività operative (fasi di Development & Test) dei gruppi tecnici di progetto e dei Delivery remoti  
+✓ Pianificazione e coordinamento dei System Test, Integration Test e UAT, User Acceptance  
+Test  
+✓ Demand management  
+✓ Monitoring delle iniziative evolutive e progettuali pianificate, nonché della gestione di risks & issues ad essi relativi (piani di rientro, staffing risorse)  
+✓ Predisposizione del capacity plan e relativo monitoring tramite periodici avanzamenti  
+operativi (SAL, CR, KPI, Correttive)  
+• Da settembre 2012  
+Team Lead del gruppo tecnico T&A - Technical&Architecture - cui è assegnata la gestione delle attività cross sistema, a garanzia del processo di SDLC. Rientrano tra le competenze:  
+✓ Gestione applicativa degli ambienti di Sviluppo, Test, Pre Produzione e Produzione basati  
+su database Oracle 11gR2 in architettura RAC a 6 Nodi.  
+✓ Pianificazione e coordinamento rilasci release software  
+✓ Versionamento e porting strutturato dei codici nei differenti ambienti  
+✓ Monitoring dei server degli applicativi, basati su piattaforma Microsoft Windows Server  
+2008 e Unix Oracle Solaris (3 layer - DB, Application e Web server)  
+✓ Ottimizzazione dei processi di reportistica dati, mediante Tuning del codice PL/SQL e review tecnica dei processi implementati  
+✓ Competenze consolidate nella progettazione di database relazionali su piattaforma Oracle
+IT Sr Analyst
+Accenture Technology, Strada Quattro, Assago (MI)
+Da maggio 2010 a agosto 2012
+Tipo di attività o settore Consulenza IT  
+Nome e indirizzo del datore di lavoro: Accenture, Strada Quattro, Assago (MI)  
+  
+Principali attività e responsabilità: Durante questo periodo ho svolto il ruolo di analista tecnico funzionale e di sviluppatore di un progetto  
+di verifica fatturazione per il cliente ENI Gas&Power. In particolare ho ricoperto i seguenti ruoli:  
+  
+• Aprile 2011 - Agosto 2012  
+Responsabile tecnico/funzionale del progetto VeFa, volto alla verifica fatturazione della clientela retail Dual Gas&Power.  
+  
+All'interno del progetto ho ricoperto il ruolo di:  
+✓ Analista funzionale per la definizione e l'implementazione delle logiche di trasformazione  
+ETL, necessarie ad integrare i dati di fatturazione provenienti dai differenti distributori di GAS ed Energia Elettrica alla logica di fatturazione del sistema billing Lodestar.  
+L'applicativo consente la comparazione dei dati di fatturazione esposti dei fornitori,  
+garantendo un'accurata analisi qualitativa e quantitativa del costo del venduto.  
+✓ Responsabile tecnico delle implementazioni dei processi di trasformazione dati in ambiente  
+Oracle 10gR2 (in linguaggio PL/SQL)  
+  
+• Maggio 2010 - Marzo 2011  
+Analista tecnico di iniziative inerenti il sistema di fatturazione Lodestar per la gestione della clientela retail single e dual di Eni Gas&Power. L'applicativo gestisce l'acquisizione e la gestione delle letture provenienti dai distributori di Gas ed Energia Elettrica. Principali mansioni  
+riguardavano l'analisi dei requisiti e la definizione dei processi di fatturazione, il disegno tecnico e  
+funzionale delle evolutive richieste sulla piattaforma e le attività di implementazione sui sistemi  
+(principalmente svolte in PL/SQL e nel linguaggio proprietario di Lodestar, ora acquisito da Oracle)
+IT Logistic Manager
+Boratrans Trasporti, Via Carrozzo 1, S. Pietro V.co
+Da ottobre 2006 a marzo 2010
+Tipo di attività o settore Logistica Merci  
+Nome e indirizzo del datore di lavoro: Boratrans Trasporti, Via Carrozzo 1, S. Pietro V.co (BR)  
+  
+Principali attività e responsabilità: IT Logistic Manager  
+• Implementazione software di logistica merci, gestione di ritiri e spedizioni  
+• Pianificazione dei giri dei corrieri in base alla zona di consegna  
+• Ottimizzazione e controllo dei costi operativi e di gestione del parco automezzi  
+• Fatturazione e bilancio consuntivo  
+• Supporto Applicativo software
+Segretario Contabile
+Azienda GDO - Manutencoop
+Da maggio 2006 a luglio 2006
+Tipo di attività o settore Azienda GDO  
+Nome e indirizzo del datore di lavoro: ManutenCoop, Via Poli, 4, Zola Predosa BO  
+  
+Principali attività e responsabilità • Contabile  
+✓ Gestione buste paga dipendenti  
+✓ Rendicontazione trasferte
+Operatore Logistica
+Azienda GDO - Carrefour
+Da 2006 a 2006
+Tipo di attività o settore Azienda GDO
+Impiantista Elettrico
+Carrefour
+Da 2003 a 2006
+via Marilyn Monroe 2, Casalecchio di Reno BO  
+  
+Principali attività e responsabilità • Lavoro part-time in qualità di operatore carico e scarico magazzino merci  
+  
+Date 2003 - 2006  
+Lavoro o posizione ricoperti Impiantista Elettrico  
+Tipo di attività o settore Azienda Impianti Elettrici  
+Nome e indirizzo del datore di lavoro CAP Impianti, Bologna (BO)  
+  
+Principali attività e responsabilità • Lavoro in qualità di impiantista elettrico di tipo civile ed industriale, installazione di impianti  
+d'allarme e sicurezza
+Istruzione e Formazione
+Laurea in Ingegneria Delle Telecomunicazioni in Telecomunicazioni
+Università degli studi di Bologna -  Bologna, Emilia-Romagna
+2014
+Diploma di Perito Industriale Capotecnico Specializzato in Elettronica e Telecomunicazioni
+Istituto Tecnico Industriale Statale "G.Giorgi" di Brindisi -  Brindisi, Puglia
+2000
+Attestato di frequenza corso Lingua Inglese
+Istituto Tecnico Industriale Statale "G.Giorgi" di Brindisi -  Brindisi, Puglia
+2000
+Borsa di studio di maggiore impegno in Principali tematiche/competenza
+Istituto Tecnico Industriale Statale "G.Giorgi" di Brindisi -  Brindisi, Puglia
+1998
+Competenze
+CRM (3 anni), CUSTOMER RELATIONSHIP MANAGEMENT (3 anni), Oracle (5 anni), PL/SQL (5 anni), SQL (5 anni)
+Informazioni addizionali
+Capacità e competenze sociali Attitudine per la collaborazione ed il lavoro in team, maturata con la partecipazione ai progetti  
+affrontati nel corso della carriera lavorativa, accademica e di esperienze sportive di squadra e non a  
+livello agonistico (pallacanestro, judo e nuoto)  
+  
+Capacità e competenze PM  
+informatiche Program management dei progetti con software di planning Microsoft Project  
+Ottima conoscenza di database relazionali basati su piattaforma Oracle Database e del CRM Siebel  
+Ottima padronanza degli applicativi del pacchetto Microsoft Office (Outlook, Excel, Word, PowerPoint, 
+Visio)  
+  
+Sistemi Operativi  
+Linux Solaris, Ms Windows Server 2008, MS DOS  
+  
+Principali linguaggi di programmazione  
+Oracle PL/SQL, Siebel CRM, Android, Billing (Lodestar/Oracle MDM), VB (VBA, VB6, VBScript e  
+.NET), C/C++, JAVA, Html, XML  
+  
+Principali ambienti di sviluppo integrati IDE (Integrated Development Environment)  
+Netbeans, Eclipse, Microsoft Visual Studio .NET  
+  
+Principali strumenti software  
+Applicativi per lo sviluppo e l'amministrazione di database relazionali: Toad for Oracle, SqlDeveloper  
+Suite Oracle LODESTAR per la fatturazione di energia elettrica e gas  
+Standard UML  
+Suite di sviluppo Matlab 8.0  
+Programmi CAD, produttività, authoring, web publishing, grafica e fotoritocco, audio e video, tra cui  
+Adobe Photoshop ed Adobe Dreamweaver  
+  
+Capacità e competenze Tool & custom  
+Realizzazione di software di gestione database con Microsoft Access  
+informatiche  
+Sviluppo di software "dedicato" in linguaggio Visual Basic 6.0 per applicazioni di gestione interfacce  
+hardware  
+Implementazione di firmware per architetture embedded in linguaggio Java, C ed Assembler specifico 
+per microcontrollori Microchip PIC & AVR (Raspberry, Arduino e derivati similari)  
+Progettazione sviluppo di dispositivi elettronici hardware basati su microcontrollore e relativo sviluppo 
+software di gestione PC mediante porta USB e/o seriale COM
+Autorizzo il trattamento dei miei dati personali ai sensi dell’art. 13 D.Lgs. 30 giugno 2003 n. 196 e dell’art. 13 del Regolamento (UE) 2016/679.

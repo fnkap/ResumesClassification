@@ -1,0 +1,52 @@
+IT Manager / PM
+IT System Administrator - Sergio Rossi
+Burago di Molgora, Lombardia
+Esperienza lavorativa
+IT Manager / PM
+Folli Follie -  Milano, Lombardia
+Da aprile 2019 a oggi
+Insieme al mio riporto diretto,   
+• Installazione/Configurazione di apparati di rete, PC, Stampanti, Videoconference  
+• Installazione/Configurazione di software aziendali  
+• Gestione dell’infrastruttura server, con gestione diretta a seconda dei ruoli del server;  
+• Gestione e manutenzione degli asset IT;  
+• Consulenza interna agli utenti;  
+• Sviluppo della piattaforma online Sharepoint;  
+• Gestione dei Negozi a livello IT;  
+• Gestione relazioni con consulenti/fornitori;  
+• Pianificazione del budget della divisione IT.
+IT System Administrator /PM
+Sergio Rossi -  Milano, Lombardia
+Da luglio 2016 a aprile 2019
+Via Pontaccio 13 - Milano, 20041 Milano (Italia) www.sergiorossi.com  
+A seguito dell'acquisizione di Sergio Rossi da parte di Investindustrial dalla holding Kering nel Dicembre 2015, la mia missione ha comportato la migrazione dei sistemi infrastrutturali dell'azienda.  
+Nello specifico ho avuto modo di imparare e approfondire diversi aspetti, come:  
+* Costruzione della nuova server farm basata a San Mauro Pascoli (RN) con la conseguente costruzione di server virutali (VM)  
+* Configurazione e installazione degli Switch Cisco  
+* Installazione e configurazioni e monitoraggio delle connessioni VPN tra i negozi e la server farm con la tecnologia Peplink  
+* Utilizzo VEEAM per i backup delle VM  
+* Adozione di nuove linee internet per tutti i negozi Sergio Rossi WW  
+* Progetto VOIP  
+* Manutenzione dei PC (antivirus, proxy etc)  
+* Relazioni con i vari fornitori e consulenti  
+* Progettazione, configurazione e installazione del materiale IT di infrastruttura per i nuovi negozi Sergio Rossi.  
+* Gestione progetti ERP e reportistica aziendale  
+  
+Attività o settore Azienda Calzaturiera
+Junior System Administrator
+Pomellato -  Milano, Lombardia
+Da maggio 2011 a giugno 2016
+Italia)  
+In Pomellato ero a supporto del sistemista di riferimento, e nello specifico:  
+* Supporto agli utenti in sede e negozi  
+* Supporto e sviluppo della intranet aziendale basata su Sharepoint 2010  
+* Configurazione MDM e deployment sui dispositivi iOS  
+* Intallazione e start-up dell'infrastruttura dei nuovi negozi Dodo e Pomellato  
+* Gestione degli utenti tramite AD e della posta con Exchange 2010
+Istruzione e Formazione
+Università degli Studi di Milano -  Milano, Lombardia
+Da settembre 2007 a dicembre 2010
+Informazioni addizionali
+Competenze comunicative  
+Ottime competenze comunicative e relazionali acquisite durante la mia esperienza in Pomellato nell'aiutare gli utenti
+Autorizzo il trattamento dei miei dati personali ai sensi dell’art. 13 D.Lgs. 30 giugno 2003 n. 196 e dell’art. 13 del Regolamento (UE) 2016/679.

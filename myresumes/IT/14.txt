@@ -1,0 +1,110 @@
+IT MANAGER
+IT MANAGER - WISE ENERGY
+Milano, Lombardia
+Esperienza lavorativa
+IT MANAGER
+WISE ENERGY -  Milano, Lombardia
+Da marzo 2019 a oggi
+Italy)  
+  
+Main Activities and Responsibilities  
+  
+* Preparation and implementation of internal procedures  
+* Coordinating and managing of vendors and providers of all ICT services  
+* Maintenace of the temporary (Azure migration in place) on premises server farm (data storage,  
+virtualization, disaster recovery, back up)  
+* Planning of all the network (network setup, wi-fi design)  
+* Networking setup & management- Palo Alto Firewalls / Vlans / VPNs  
+* Windows server management - Azure Cloud - Active Directory  
+* Linux server management - Centos/Red hat Linux  
+* Web server management - Word press (would be a plus)  
+* Security system management  
+* Domain control service management  
+* Hardware and software setup and troubleshooting  
+  
+Main Technologies and Devices  
+  
+* Cloud Azure  
+* Windows Server 2016, AD, IIS  
+* VMWare Virtualization  
+* Mikrotik and Ubiquiti  
+* O365  
+* PBX Systems  
+* iOS devices management  
+* Team Viewer  
+* Palo Alto Firewalls  
+* Cisco
+ICT OFFICER
+European Union -  Roma, Lazio
+Da febbraio 2018 a febbraio 2019
+Italy)  
+  
+Main Activities and Responsibilities  
+  
+* Creation and implentation of internal ICT procedures  
+* Asset management (Servers, Laptops, Mobile devices ect)  
+* Monitoring and configuration of Network devices  
+* Advanced support on Finance Applications (ABAC, JIRA)  
+* Coordination of Operations beetwen branch office and main office  
+  
+Main Technologies and Devices  
+  
+* Microsoft Server 2012 (AD, GPO ect.)  
+* SCCM, Hypervisor, WSUS  
+* Windows 7, Windows 10  
+* Micorsoft Office 2016, O365, Skype for Business  
+* Polycom VDC  
+* iOS, OSX
+European Union
+Da 2002 a 2019
+http://europass.cedefop.europa.eu
+IT MANAGER
+European Union
+Da marzo 2015 a novembre 2017
+Main activities and responsibilities  
+  
+* Head of ICT  
+* Coordinating a team of 8-12 persons  
+* Preparation and implementation of internal procedures  
+* Coordinating and managing of vendors and providers of all ICT services  
+* Design and installing of the server farm (data storage, virtualization, disaster recovery, back up)  
+* Design of all the network (coordinating the team of cabling, network setup, wi-fi design)  
+* ICT Budget  
+  
+Technologies and Software used/supported  
+  
+* Microsoft Server: 2008, 2012R2 (AD, GPO etc.)  
+* Microsoft Application: Hypervisor, WSUS, SCCM  
+* Windows 7, Windows 10  
+* Microsoft Office: 2013, 2016, O365  
+* Microsoft Azure (IaaS)  
+* VMWare vCenter 6  
+* Dell Commvault  
+* Cisco UCS, Catalyst Series, Meraki Cloud Managed, Cisco Small Business  
+* Ubiquiti  
+  
+26/3/19 © European Union, 2002-2019 | http://europass.cedefop.europa.eu ~~~~~~~~~~  
+  
+* MySQL  
+* PBX Gateway Alcatel-Lucent  
+* SAP  
+* Autocad (2014, 2016)  
+* TM1  
+* Citrix  
+* SolarWinds  
+* TeamViewer Business Profile  
+* PRTG Monitoring  
+* Creation and implementation of internal software for asset management using Microsoft Visual
+Istruzione e Formazione
+Design and setup
+ICT Infrastructure -  Roma, Lazio
+Da aprile 2013 a marzo 2015
+S.pA in banking
+ICT -  Roma, Lazio
+Da aprile 2010 a luglio 2012
+An ICT
+MCSA CERTIFICATE
+LICEO SCIENTIFICO BORROMINI -  Roma, Lazio
+Link
+https://www.linkedin.com/in/juljan-haxhiraj
+Autorizzo il trattamento dei miei dati personali ai sensi dell’art. 13 D.Lgs. 30 giugno 2003 n. 196 e dell’art. 13 del Regolamento (UE) 2016/679.

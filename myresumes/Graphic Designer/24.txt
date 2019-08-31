@@ -1,0 +1,149 @@
+Web Graphic Designer
+Chiesina Uzzanese, Toscana
+Web Graphic Designer/Developer
+Esperienza lavorativa
+Web Graphic Designer
+web for innovation -  Chiesina Uzzanese, Toscana
+Da agosto 2018 a oggi
+Italia)  
+Lavoro come freelance da Web graphic designer e programmatrice.  
+Grafica pubblicitaria:  
+- volantini, biglietti da visita, poster, roll up, cartoline, brochure, loghi, icone per il web, banner,  
+copertine social media ;  
+Programmi:  
+- Photoshop e Illustrator;  
+UX/UI mappatura dei profili utente, creazione siti web;  
+COMPETENZE DI WEB DESIGN:  
+* WORDPRESS:  
+▫ Installazione di Wordpress e modifica di wp-config.  
+▫ Installazione e import dei principali plugin e temi.  
+▫ Creazione di negozi online, gestione del metodo di pagamento tramite Ucommerce.  
+▫ Creazione di siti a tema Enfold Child.  
+▫ Utilizzo di MailChimp per la creazione di NewsLetters  
+▫ IUbenda: stesura della Cookie Policy  
+▫ Personalizzazione dei template  
+▫ Adattamento del tema al target del cliente.  
+▫ Implementazioni di modifiche al template tramite php.  
+▫ FTP per la pubblicazione online del sito tramite WinSCP.  
+* HTML5:  
+▫ Creazione di pagine web statiche, fluide e responsive.  
+▫ Utilizzo di boilerplates.  
+▫ Utilizzo completo dei tag (aside, section, body, div, figcaption, table, label, form, input, style,  
+script, id ecc.)  
+* CSS3:  
+▫ Creazione di landing page, coming soon, pagina 404  
+▫ Modifica del layout, del font, del background, immagini e colore.  
+▫ Creazione di gallerie e slide.  
+▫ Creazione di siti One Page e Mini Site.  
+▫ Implementazione di Media-Queries.  
+  
+18/2/19 © Unione europea, 2002-2019 | http://europass.cedefop.europa.eu ~~~~~~~~~~~~  
+  
+▫ Proprietà, pseudo classi, Funzioni  
+* Bootstrap:  
+▫ Layout (Overview, Grid)  
+▫ Content (Images, Typography, Tables, Figures ecc.)  
+▫ Components ( Card, Carousel, Forms, Buttons, Media Object ecc.)  
+▫ Utilities (flex, display, colors, borders, clearfix, positions ecc.)  
+  
+COMPETENZE DI PROGRAMMAZIONE:  
+* Java:  
+▫ Definizione di classi, attributi e metodi, operatore lambda.  
+▫ Definizione di variabili, stringhe, array e operatori booleani.  
+▫ Definizione di metodi, cicli for, while, e catene if-else.  
+▫ Debugging tramite Try Catch, gestione di java.lang.Exceptions  
+▫ Utilizzo di Maven per importare librerie, manipolazione del POM, utilizzo dei comandi clean,  
+install, DskipTests per la build degli archetipi.  
+▫ Utilizzo di BitBucket: creazione del local repository  
+▫ Utilizzo di SmartGit: cloning del repository, creazione della branch di develop, delle feature,  
+push, merge, gestione dei conflitti, pull.  
+▫ Spring: Utilizzo dell'Initializr per l'iniezione delle dipendenze  
+* Javascript:  
+▫ Catene if-else, cicli for e while, definizione di classi, metodi.  
+▫ Operatori Booleani, Array, Stringhe, Var e Const.  
+▫ Librerie: Dataframe.js, React.JS, Angular.JS, Jquery.  
+▫ Ajax e Json.  
+▫ Gestione degli errori e debugging tramite Try Catch  
+▫ API RESTful: definizione di richieste e risposte HTTP con metodi GET, POST, PUT, PATCH e DELETE tramite XHR e Node.js, gestione delle connessioni.  
+▫ NPM: installazione di librerie.  
+* IDE:  
+▫ Visual Code, Eclipse, Netbeans  
+▫ Editor: Brackets, Notepad++  
+COMPETENZE GENERALI DI DESIGN E MARKETING DIGITALE:  
+* Photoshop:  
+▫ Creazione wireframes, layout, e modifiche foto.  
+▫ Creazione Landing page, coming soon e pagina 404.  
+▫ Creazione di Icone, Banner, volantini, poster, collage, post pubblicitari, roll up.  
+▫ Utilizzo dei tracciati.  
+▫ Presentazione di mascotte per aziende  
+▫ Mock up, Packaging/Labeling  
+* Illustrator:  
+▫ Illustrazioni vettoriali e loghi.  
+▫ Utilizzo dei tracciati  
+▫ Creazione ed esportazione SVG  
+▫ Ideazione e realizzazione illustrativa di mascotte  
+* InDesign:  
+▫ Impaginazioni per l'editoria: brochure pieghevoli, pagine reviste  
+* Grafica pubblicitaria:  
+  
+18/2/19 © Unione europea, 2002-2019 | http://europass.cedefop.europa.eu ~~~~~~~~~~~~  
+  
+▫ creazione di volantini, biglietti da visita, poster, roll up, cartoline, brochure, loghi, icone per il web,  
+banner, copertine social media ;  
+* UX/UI:  
+▫ Interaction Design (disposizione degli elementi su un piano di interfaccia)  
+▫ Definizione del prodotto, Ricerca, Analisi e Strategia, Design e Sviluppo, Validate (testing).  
+▫ Studio degli utenti, dei competitors, realizzazione delle personas, definizione degli aspetti del prodotto e degli obbiettivi, sketching, wireframing, prototyping.
+Istruzione e Formazione
+Web Graphic Designer
+Nemo Academy of Digital Arts -  Firenze, Toscana
+Da ottobre 2017 a giugno 2019
+generali di economia
+Istituto Professionale Sismondi Pacinotti -  Pescia, Toscana
+Da settembre 2008 a luglio 2013
+Competenze
+ACROBAT (Meno di 1 anno), apache (Meno di 1 anno), database (Meno di 1 anno), FTP (Meno di 1 anno), Word (Meno di 1 anno)
+Link
+http://www.web4innovation.it
+Informazioni addizionali
+Competenze professionali buona gestione dello stress, flessibilità e adattabilità lavorativa  
+  
+Competenze digitali AUTOVALUTAZIONE  
+  
+Elaborazione  
+Creazione di Risoluzione di  
+delle Comunicazione Sicurezza  
+Contenuti problemi  
+informazioni  
+  
+18/2/19 © Unione europea, 2002-2019 | http://europass.cedefop.europa.eu ~~~~~~~~~~~~  
+Curriculum vitae Negri Simona Roxana  
+  
+Utente avanzato Utente avanzato Utente avanzato Utente base Utente autonomo  
+  
+Competenze digitali - Scheda per l'autovalutazione  
+  
+* Office:  
+▫ Conoscenza di Excel, Word, Power Point e Access  
+▫ Presentazioni in Power point e in pdf;  
+▫ Creazione di tabelle in Excel;  
+* XAMPP:  
+▫ apache e MYSQL (phpadmin, creazione e gestione database)  
+▫ creazione siti in remoto (installazione wordpress e modifiche di wp-config)  
+* WinSCP:  
+* importazione cartella di wordpress, registrazione dati del sito, trasferimento del sito da remoto a  
+online (FTP);  
+* Servizi di Hosting:  
+▫ registrazione dominio, attivazione certificato SSL, creazione database, registrazione dati utente,  
+ingresso e gestione cPanel (hostingsolutions, siteground)  
+  
+~~~~~~~~~~~~~~~~   
+  
+Autorizzo il trattamento dei miei dati personali ai sensi del Dlgs 196 del 30 giugno 2003 e dell'art. 13 GDPR (Reg  
+fini della ricerca e selezione del personale  
+Iscritta a "Garanzia Giovani"  
+  
+Firma Digitale  
+  
+18/2/19 © Unione europea, 2002-2019 | http://europass.cedefop.europa.eu
+Autorizzo il trattamento dei miei dati personali ai sensi dell’art. 13 D.Lgs. 30 giugno 2003 n. 196 e dell’art. 13 del Regolamento (UE) 2016/679.

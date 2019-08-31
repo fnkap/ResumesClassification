@@ -1,0 +1,136 @@
+IT Consultant
+IT Consultant - Avangarde Solutions srl
+SUTRI, 01015, IT
+Esperienza lavorativa
+IT Consultant
+Avangarde Solutions srl
+Da dicembre 2018 a oggi
+Territory:Viterbo, Lazio  
+  
+For the customer, Cabel Industry, a company specialized in banking services, is responsible for the integration in the banking management system of the dynamic possibility of dynamic migration, divided by functionality from the AS400 DB to Oracle12.  
+Creates scripts for creating Oracle databases, stored procedures, functions, indexes and sequences and queries in PL / SQL.  
+Improve query performance in AS400.  
+Realizes the coexistence management interface of the various systems (SqlServer, Oracle, AS400) on the management site using ASP.Net WebForms and MVC technology, User Controls, Web Services WCF, using as a language for the code behind C #.  
+He currently uses the LinQ language both in extended format and using Lambda Expression  
+Realizes functions and Stored procedures and Queries in SqlServer 2012 and Oracle 12  
+It improves management and creates new indicators for banking customer management  
+Implement new DataBase develops Stored Procedures, Triggers and Functions and creates indexes for the performance of processed queries and the Microsoft SQL Server 2012 and Oracle 12 DB  
+Platform: Entity Framework 4.5, 5  
+Languages: ASP.NET WebForms, Asp.Net MVC, JavaScript, Ajax, Json, html 5, CSS, T / SQL, SQL, PL Sql, Jquery, LinQ, C #, TDD  
+S.O .: Windows 10  
+Database: SQL Server 2012, Oracle 12g, DB2 / AS400AS  
+Tools: Visual Studio.net 2012 - 2017, SQL Server Management Studio 2017, TFS, DB-Visualizer 10, SQLDeveloper 2017
+IT Consultant
+ITISistemi srl -  Rome, IT
+Da giugno 2017 a novembre 2018
+Rome  
+  
+It creates new services including monitoring the updating of the services displayed to the public by the public administration infrastructure.  
+Develops, maintains and re-generates existing services in the Microsoft environment for Public Administration (INPS), using ASP.Net WebForms and MVC technology, User Controls, Web Services WCF, using as a language for code behind C #.  
+He currently uses the LinQ language both in extended format and using Lambda Expression  
+Implement new DataBase develops Stored Procedures, Triggers and Functions and creates indexes for the performance of processed queries and the Microsoft SQL Server 2012 DB  
+Platform: Framework 4 - 4.5  
+Languages: ASP.NET, JavaScript, Ajax, Json, HTML 5, CSS, T / SQL, Jquery, LinQ, C #, TDD  
+S.O .: Windows 10  
+Database: SQL Server 2012,  
+Tools: Visual Studio.net 2012 - 2017, SQL Server Management Studio 2017, TFS  
+  
+IT Consultant  
+Private Customers  
+May 2012 - July 2016 (4 years 2 months)  
+• Sutri  
+  
+design, implementation, development and maintenance of websites  
+  
+Languages: PHP4 / 5, JavaScript, Transact-SQL, DHTML, SQL, PL / SQL, Jquery, Angular.Js, ASP.NET MVC, TDD  
+O.S .: Windows XP, 7  
+Database: SQL Server 2005, MySQL, Oracle 11g  
+Tools: Visual Studio.net, Enterprise Manager, MS Office 2003/2007, Oracle SQlDeveloper, TOAD, phpMyAdmin  
+Server: Apache
+IT Consultant
+Eustema Spa -  Rome, IT
+Da dicembre 2007 a maggio 2012
+Rome  
+  
+Creation of analysis and program testing documentation, Function Point calculation.  
+Development and maintenance of a ticketing service (GPA) used within the company Intranet for monitoring anomalies and response times  
+Analysis and resolution of problems concerning the performance of the Company Intranet  
+Administration of the SqlServer2000 database and creation of Stored Procedures, Functions and triggers and creation of indexes for the performance of processed queries  
+Implementation of Stored Procedures and functions for the Oracle 8i Data Base  
+Creating Interface to other systems (Data Warehouse)  
+  
+Languages: ASP, JavaScript, Transact-SQL, DHTML, PL / SQL, VB script  
+O.S. .: Windows 2000, XP  
+Databases: SQL Server 2000, Oracle 8i  
+Tools: Visual Studio.net, Toad 7, Enterprise Manager, MS Office 2000/2003/2007, Business Object, ERP
+IT Consultant
+AXA Sistemi srl -  Rome, IT
+Da marzo 2002 a dicembre 2005
+Rome  
+  
+Analysis and resolution of problems concerning the performance of the Company Intranet  
+Creation of new services within the GPA ticketing service (Statistics, Research)  
+Administration of the SqlServer2000 database  
+Implementation of new Stored Procedures and functions.  
+Languages: ASP, JavaScript, Transact-SQL, DHTML, Pl / SQL, VB script  
+O.S .: Windows 2000  
+Database: SQL Server 2000  
+Tools: Visual InterDev 6, Enterprise Manager, MS Office
+IT Consultant
+AXA Sistemi srl -  Rome, IT
+Da settembre 2001 a marzo 2002
+Rome  
+  
+Implementation of new services for Tuxedo middleware using a C ++ language with proprietary Tuxedo functions  
+Realization of data transfer flows between the company (BLU) and banking services through the use of positional records, application realized in Pro * C and OCI language regarding the querying of the DB  
+Implementation of Stored Procedures, functions and triggers  
+  
+Languages: C, C ++, Pro * C / C ++, PL / SQL, Korn shell, SQLDA, OCI  
+S.O .: Sun Solaris, Windows 2000  
+Middleware: Tuxedo  
+Tools: Clarify, Toad 7  
+Database: Oracle 8.05.8i
+IT Consultant
+AXA Sistemi C/O Datamat spa -  Rome, IT
+Da maggio 2001 a settembre 2001
+Rome  
+  
+Head of the Back Office Server within the Global Integration sector within the Europol project  
+Realization of reports for system anomalies  
+Creation of installation documents  
+Implementation of XML test files  
+Administration of the SqlServer2000 database  
+  
+Languages: C ++, XML, XSL, ASP, DHTML  
+O.S .: Windows 2000 Server  
+Tools. Visual C ++ 6, Visual Source Safe, XMLEditor, Visual Inter Dev 6, Enterprise Manager  
+Database: SQL Server 2000
+IT Consultant
+AXA Sistemi srl -  Milan, IT
+Da ottobre 2000 a maggio 2001
+Segrate - Milan  
+  
+Analysis of call center performance problems and analysis of possible resolutions  
+Local Database Administration Management of various servers (SNA, ORACLE, UNIX SCO, IVR)  
+Languages: C, Visual Basic, Korn Shell, PL / SQL  
+S.O .: Unix SCO, Windows 2000 Server, Windows NT 4 Server, Windows NT 3.11, Window 98  
+Database: Oracle 7.3  
+Tools: Oracle Enterprise manager
+IT Consultant
+AXA Sistemi srl -  Rome, IT
+Da marzo 2000 a ottobre 2000
+Rome  
+  
+Implementation of various services (CGI) for monitoring problems on the telephone line  
+  
+Languages: C, C ++, HTML, SQL, Korn Shell  
+O.S..: Windows NT 4, Unix AIX  
+Database: DB2
+Istruzione e Formazione
+Diploma of Higher Education
+Informazioni addizionali
+~~~~~~~~~~  
+I have many years of experience in the IT environment with around 18 years of experience accumulated in different clients and different working environments, from the banking environment to public administration and telephone services. I have worked both web and stand alone applications as well as middleware (TUXEDO), in both structured and OO projects.  
+I also have many years of experience as a company manager and as a company administrator with an average workforce of 15 employees.  
+I am a dynamic person and open to new work experiences. My characteristics are: a marked propensity for problem solving, a strong search for results, and attention to details. I have no problem working in a team even if it is made up of people younger than me, and I am available to receive information without objection. I am used to working in an environment under stress without paying attention to working times. I am a friendly person and inclined to human relations.
+Autorizzo il trattamento dei miei dati personali ai sensi dell’art. 13 D.Lgs. 30 giugno 2003 n. 196 e dell’art. 13 del Regolamento (UE) 2016/679.

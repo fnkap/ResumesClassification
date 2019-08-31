@@ -1,0 +1,74 @@
+Responsabile IT
+Responsabile IT - Metalleghe S.p.A
+Padenghe sul Garda, Lombardia
+Esperienza lavorativa
+Responsabile IT
+Metalleghe S.p.A
+Da febbraio 2012 a oggi
+Via E. Fermi, 14, 25020 Flero (Italia)  
+http://www.metalleghegroup.com  
+Gestione della infrastruttura aziendale (rete di circa 90 PC tra sede centrale ed aziende controllate,  
+centralino telefonico, ecc.) nonché gestione server cluster Windows 2012 (con virtualizzazione tramite  
+Hyper-V) e gestionale basato su piattaforma Java/Oracle.  
+  
+Attività o settore Fornitura carbonati e ferroleghe / Metalmeccanico
+Amministratore IT
+Rothe Erde - Metallurgica Rossi S.p.A
+Da dicembre 2006 a dicembre 2011
+Viale Kennedy, 56, 25010 Visano (Italia)  
+http://www.rotheerde. it  
+Gestione della infrastruttura aziendale (rete di circa 150 PC, centralino telefonico, manutenzione sito  
+internet, ecc.) nonché gestione server cluster Windows 2008 R2 (con virtualizzazione tramite Hyper- V) e gestionale basato su piattaforma AS400.  
+  
+Attività o settore Produzione cuscinetti volventi / Metalmeccanico
+Responsabile IT
+Cacciamali S.p.A
+Da aprile 2003 a novembre 2006
+Via IV Novembre, 28, 25030 Mairano (Italia)  
+Gestione della infrastruttura aziendale (rete di circa 70 PC, centralino telefonico, manutenzione sito  
+internet, ecc.) nonché gestione server Windows 2000 e gestionali basati su piattaforma UNIX e AS400.  
+  
+Attività o settore Automotive / Metalmeccanico
+Responsabile Organizzazione & Sviluppo e collaboratore Assicurazione Qualità
+Cacciamali S.p.A
+Da marzo 2001 a marzo 2003
+Via IV Novembre, 28, 25030 Mairano (Italia)  
+Studio, implementazione ed applicazione in ambito aziendale delle istruzioni e procedure derivanti  
+dalle normative "Vision 2000".  
+  
+Attività o settore Automotive / Metalmeccanico
+Responsabile codifica prodotto e distinte base
+Cacciamali S.p.A. -  Mairano, Lombardia
+Da febbraio 1999 a febbraio 2001
+Codifica a gestionale dei materiali di acquisto e produzione (semilavorati), creazione e manutenzione delle distinte base.  
+  
+Attività o settore Automotive / Metalmeccanico
+Istruzione e Formazione
+Attestato di frequenza
+Scuola di Formazione Interna -  Visano, Lombardia
+Da marzo 2007 a ottobre 2007
+Diploma di Ragioniere e Perito Commerciale
+Scuola Secondaria di Secondo Grado -  Desenzano del Garda, Lombardia
+Da settembre 1989 a luglio 1995
+Competenze
+AS400. (8 anni), Hyper-V (6 anni), Oracle. (7 anni), Windows Server/Client (Oltre 10 anni)
+Informazioni addizionali
+Competenze informatiche * Sistemi operativi: Ms-Dos (rudimenti), Ms-Windows (client e server), Linux/Unix (rudimenti);  
+gestione di macchine virtuali in "Failover cluster server" in ambiente Windows 2008 R2/2012  
+Datacenter con tecnologia Hyper-V;  
+* Applicativi: Ms-Office (2007/2010/2013/2016) e Lotus Notes; Gordano NTMail, Alt-N MDaemon,  
+IBM Lotus Domino ed Exchange 2010/2013 (server di posta elettronica); Kaspersky Endpoint  
+Security e Grisoft AVG (antivirus); Samba (server condivisione file per linux), X-Win32 (shell remota  
+per ambienti UNIX); IBM Cognos BI (software di Business Intelligence), TOAD (gestione database  
+Oracle), IBM AS400 Client Access Express; Kerio WinRoute e Watchguard (firewall per internet);  
+DameWare Mini Remote Control, VNCScan e TeamViewer (per la gestione remota dei Pc) e molto  
+altro;  
+* Linguaggi di programmazione: Visual Basic 5.0 e 6.0 (rudimenti), VBA (visual basic per  
+applicazioni), HTML (rudimenti), ASP, SQL*PLUS, PL/SQL;  
+* Gestionali: Space REL (gestionale della software house INDIS - gruppo "Il Sole 24 Ore" - in  
+ambiente UNIX), AS/400 (rudimenti) ambienti GIPROS e SME-UP, JAIMS (gestionale in ambiente  
+Java su database Oracle);  
+* Altre: Logiche e strutture DataBase e relativa costruzione (principalmente in ambiente Access),  
+gestione ambienti di rete LAN (principalmente protocollo TCP/IP), gestione e configurazione  
+hardware (installazioni, risoluzione dei problemi, ecc.).
+Autorizzo il trattamento dei miei dati personali ai sensi dell’art. 13 D.Lgs. 30 giugno 2003 n. 196 e dell’art. 13 del Regolamento (UE) 2016/679.

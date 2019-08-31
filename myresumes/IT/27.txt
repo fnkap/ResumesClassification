@@ -1,0 +1,84 @@
+Specialista IT
+Milano, Lombardia
+Esperienza lavorativa
+Specialista IT
+Energent S.r.l. -  Milano, Lombardia
+Da marzo 2017 a oggi
+Mansioni  
+Unix/Storage system administrator - operations.  
+Supporto sistemistico L2-L3 nel team dedicato Unix all'interno di un importante datacenter; manutenzione ordinaria/evolutiva di ambienti open enterprise per i settori industria, banca, assicurazioni.  
+Attività di gestione sistemi operativi, storage, High Availability, Disaster Recovery, Business Continuity.  
+Security patching, troubleshooting, shell scripting e monitoring.  
+  
+Competenze  
+SUNSolaris10/11, IBM AIX6/7, Linux RH7, SUSE11, SymantecVeritas VxVM/VxFS/VCS, IBM LVM/HACMP, Oracle VM, multidomini (zone, dLPAR), storage IBM/NetApp/EMC, VmWare/ESX, BMC/Nagios.
+Specialista IT
+Esiet S.p.A. -  Milano, Lombardia
+Da maggio 2014 a settembre 2015
+Mansioni  
+Sybase 15 DBA, Unix system administrator divisione Finance area DSI Intesa Sanpaolo group services S.p.A.  
+Attività di implementazione/manutenzione ordinaria ed evolutiva dell'infrastruttura IT con particolare attenzione all'analisi/risoluzione e monitoring di problemi legati alle performances ed al tuning degli applicativi utilizzati in ambiente di produzione e collaudo (Murex, Kondor+,ION,SSL).  
+  
+Competenze  
+SUNSolaris10/11, IBM AIX6/7, Linux RH7, SUSE11, SymantecVeritas VxVM/VxFS/VCS, IBM LVM/HACMP, Oracle VM, multidomini (zone, dLPAR), storage IBM/NetApp/EMC, VmWare/ESX, BMC/Nagios.
+Specialista IT
+Elfi systems s.r.l. -  Milano, Lombardia
+Da maggio 2005 a maggio 2014
+Mansioni  
+Team leader, Sybase 15 DBA, Unix system administrator divisione RiskManagement area DSI Intesa Sanpaolo group services S.p.A.  
+Attività di implementazione/manutenzione ordinaria ed evolutiva dell'infrastruttura IT con particolare attenzione all'analisi/risoluzione e monitoring di problemi legati alle performances ed al tuning degli applicativi utilizzati in ambiente di produzione e collaudo (SAS, Riskwatch, Sybase).  
+  
+Risultati raggiunti  
+Follow-up tecnologico dell'infrastruttura enterprise del gruppo.  
+  
+Competenze  
+Sistemi operativi: Solaris, AIX, Linux.  
+Linguaggi di programmazione: C/C++, Shell scripting, Perl.  
+Framework e prodotti di uso quotidiano: Symantec storage foundation (VxVM/VxFS/VCS), IBM Websphere MQ, Primeur Spazio/IXP, Symantec Netbackup, ASE Sybase15, CA AutosysR11, IBM Datastage, Remedy, metodologie ITIL.
+Specialista IT
+Sol-tec s.r.l. -  Milano, Lombardia
+Da giugno 1999 a maggio 2005
+Mansioni  
+Unix system administrator, Sybase12 DBA, Oracle9i DBA area banking (più clienti seguiti).  
+  
+Competenze  
+Sistemi operativi: Solaris, AIX.  
+Linguaggi di programmazione: C/C++, Shell scripting, Perl.  
+Framework e prodotti di uso quotidiano: Symantec storage foundation (VxVM/VxFS/VCS), IBM Websphere MQ, Symantec Netbackup, ASE Sybase12, Oracle 9i.
+Sviluppatore software
+Italtel S.p.A. -  Milano, Lombardia
+Da maggio 1990 a maggio 1999
+Mansioni  
+All'interno dell'area R&D BUCT-UOSS   
+- su tecnologia PSTN ambiente Digital VAX/VMS:  
+Nell'area BUCT-UOSS-SW sviluppo software per la gestione/configurazione/monitoring di centrali telefoniche su linee sincrone dedicate (standard V.24), connessione punto-punto a centrali UT,ES,CT in linguaggio ANCI C e Cobol, utilizzo di strumenti di supporto al codice Rational Purify, versioning PVCS software.   
+Sviluppo di procedure per la gestione delle linee asincrone dedicate KMV (protocollo proprietario ISO/OSI) in linguaggio ANCI C e Cobol, utilizzo di strumenti di supporto al codice Rational Purify, versioning PVCS software.   
+  
+- su tecnologia radiomobile GSM rete pilota TelecomItaliaNetwork ambiente HP/UX:  
+Nell'area BUCT-UOSS-GSM implementazione, all'interno del sottosistema GUI, della parte di front-end grafico di monitoring per la rete pilota GSM europea tramite framework TCSI - linguaggio C++ e librerie proprietarie TCSI.  
+  
+Risultati raggiunti  
+  
+Competenze  
+Sistemi operativi: Solaris,HP/UX e VAX/VMS.  
+Linguaggi di programmazione: C/C++,Cobol.
+Istruzione e Formazione
+diploma in informatica
+itis Feltrinelli -  Milano, Lombardia
+Da 1988 a 1988
+Competenze
+Unix, Linux C, C++, shell, Sybase, Oracle, Symantec VxVM/VxFS/VCS, IBM WebSphere MQ, CA Autosys, Primeur Spazio/IXP
+Servizio militare/civile
+Arma/Campo: Esercito
+Nazione in cui si è prestato servizio: Italia
+Grado/Posizione: Fanteria
+Da marzo 1989 a febbraio 1990
+Certificazioni/Licenze
+Certificazioni professionali
+SUN Partner program iForce (System Engineer SUN certification);   
+Amministrazione Enterprise Server 10K;   
+IBM Professional Certification Program AIX V4.3 System Administration (certification program).   
+Sybase 11.9.2 DBA;   
+Oracle 8i DBA;   
+Oracle Performance&Tuning;
+Autorizzo il trattamento dei miei dati personali ai sensi dell’art. 13 D.Lgs. 30 giugno 2003 n. 196 e dell’art. 13 del Regolamento (UE) 2016/679.

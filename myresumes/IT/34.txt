@@ -1,0 +1,99 @@
+IT Manager
+IT Manager
+Formigine, Emilia-Romagna
+Da tre anni sono IT Manager c/o Cooltech, azienda metalmeccanica di Formigine leader in sistemi di raffreddamento per l'elettronica di potenza; gestisco l’intera infrastruttura informatica, la comunicazione tra i diversi software e produco la reportistica richiesta dalla Direzione.  
+  
+Precedentemente ho lavorato otto anni come Direttore operativo in Automazioni Cismac e dieci come analista programmatore in una software house di Modena.  
+Negli anni ho arricchito le mie conoscenze e competenze affrontando da subito il mondo del lavoro, guadagnandone in esperienza, metodo, determinazione e autonomia.  
+  
+L’esperienza professionale finora accumulata mi ha permesso di sviluppare e dimostrare eccellenti doti interpersonali e comunicative, senso del dovere, responsabilità e affidabilità.
+Esperienza lavorativa
+IT Manager
+Cooltech Srl -  Formigine, Emilia-Romagna
+Da giugno 2016 a oggi
+Operando a stretto contatto la Direzione in una realtà giovane, dinamica ed in continuo sviluppo, ricopro il ruolo di IT Manager con le seguenti mansioni:  
+  
+- Manutenzione e continua implementazione dell'ERP aziendale (Sage X3)  
+- Gestione dell'infrastruttura IT attraverso aggiornamenti periodici degli applicativi software al fine di garantirne le massime prestazioni  
+- Acquisizione, elaborazione e generazione statistiche di efficienza su base dati proveniente dalle macchine a controllo numerico presenti in officina (MES)  
+- Gestione informatizzata di prelievi e versamenti sui System Modula® attraverso la comunicazione con il software WMS.  
+- Help desk agli utenti su problematiche hardware e software  
+- Rapporti con i fornitori IT e pianificazione degli investimenti a medio/lungo termine  
+- Analisi, progettazione e sviluppo di soluzioni ed interfacce per migliorare la comunicazione tra i software presenti in azienda  
+- Per Industria 4.0: Sviluppo interfaccia di lettura dati dalle macchine utensili e relative statistiche  
+- Estrazione ed elaborazione report e statistiche anche attraverso SQL ad hoc  
+  
+Grazie all'esperienza acquisita negli anni, fin da subito ho potuto contribuire al miglioramento di diversi processi, automatizzandoli e riducendone i tempi di esecuzione; ho sviluppato un tool esterno al gestionale per la generazione periodica di indicatori di efficienza (KPI) e misurazione delle performance dei reparti, permettendo di individuare e raggiungere in modo concreto gli obiettivi prestabiliti.
+Direttore Operativo
+Automazioni Cismac -  Sassuolo, Emilia-Romagna
+Da dicembre 2007 a maggio 2016
+Riportando direttamente al Direttore Generale, la mia occupazione primaria era quella di coordinare e supervisionare le attività di Automazioni Cismac, ricoprendo più ruoli. Le mie responsabilità includevano:  
+  
+- System Administrator: Gestione dell'infrastruttura ICT presente nelle due sedi della società, indicativamente 60 postazioni (hardware, software, connettività fissa/mobile, sicurezza)  
+- Direzione e sviluppo delle strategie tecnologiche adottate dalla società  
+- Rapporti con i fornitori ICT e pianificazione degli investimenti a medio/lungo termine  
+- Aggiornamento e cura degli applicativi interni garantendone il funzionamento ottimale  
+- Stretta collaborazione con l'ufficio marketing, coordinando le attività di manutenzione e implementazione al sito web aziendale e alla creazione ed invio di mailing  
+- Gestione, mantenimento e miglioramento del sistema di certificazione qualità ISO 9001:2008  
+- Supervisione alla creazione e pianificazione delle commesse di produzione e ricambistica e alle attività di progettazione, costruzione, montaggio e installazione per garantire il rispetto dei tempi, dei costi e delle procedure interne  
+- Business Intelligence: Estrazione ed elaborazione report per evidenziare ed approfondire la marginalità sulle singole commesse  
+- Programmazione, controllo e verifica dei risultati raggiunti in relazione agli obiettivi temporali definiti dalla Direzione  
+  
+Negli anni ho progettato e realizzato programmi ed interfacce ad hoc per estrazione, elaborazione e scambio dati tra diversi software presenti in azienda per migliorare la comunicazione e condividere informazioni, gestire la pianificazione della progettazione e della produzione, nello specifico attraverso un CRM in ambiente Windows in grado di comunicare con il gestionale "MOSAICO", il CAD 3D Solidworks, il CAD/CAM  
+Visi, il CAD elettrico SPAC, Microsoft Exchange Server; ho supportato la migrazione del Data Center da una tradizionale infrastruttura fisica alla piattaforma virtuale Xen Server; ho fornito il supporto all'implementazione del sistema di Intrusion Detection and Prevention e gestione del firewall Fortinet.
+System Administrator
+A.T.S. SrL -  Modena, Emilia-Romagna
+Da settembre 1996 a dicembre 2007
+Collaboratore e socio, dove negli anni ho svolto le seguenti attività:  
+  
+- Responsabile degli interventi a livello sistemistico sui server in ambiente Linux e Windows  
+- Coordinatore di team di sviluppo per grandi progetti  
+- Analista e programmatore software  
+- Supporto tecnico alle attività commerciali  
+- Consulente hardware, software, connettività, virtualizzazione e sicurezza  
+- Help desk telefonico, da remoto e direttamente dal cliente  
+  
+Ho sviluppato software e servizi per svariate tipologie di clienti, tra cui alcune multinazionali come American Express Italia e Svezia, General Motors, Toyota Financial Services, Class Editori, Banca Woolwich, Wind Infostrada, De Agostini oltre a diverse aziende in Emilia-Romagna con soluzioni personalizzate per le singole esigenze.  
+Principali tipologie di applicativi sviluppati: gestione software per Call Center e numeri verdi; telemarketing in inbound e outbound; software per recupero crediti; gestionali aziendali.  
+Significativa esperienza in de-materializzazione ed archiviazione ottica, ICR/OCR, stampa e riconoscimento Barcode, Firma digitale.
+Istruzione e Formazione
+Diploma di Perito in Elettronica e Telecomunicazioni in Elettronica e Telecomunicazioni
+Istituto Tecnico Industriale Provinciale "Enrico Fermi" -  Modena, Emilia-Romagna
+Da settembre 1991 a giugno 1996
+Competenze
+Business Intelligence (8 anni), Linux (8 anni), Microsoft Exchange (8 anni), SQL (Oltre 10 anni), Sage X3 (3 anni), microsoft office (Oltre 10 anni), google analytics (2 anni)
+Link
+http://www.linkedin.com/pub/davide-gualmini/24/693/41b
+Informazioni addizionali
+Competenze tecniche  
+Gestionali/ERP  
+In ambiente Microsoft: ERP Sage X3; Mosaico; Zucchetti AD HOC Revolution e HR; Solidworld PDM, Integra e Bridge.  
+  
+Sistemi operativi  
+Microsoft Client: Windows 2000/XP/Vista/7/8/10; Microsoft Server: Windows Server 2003/2003 SBS/2008/2016  
+Linux: CentOS, Red Hat, Fedora, Debian, Ubuntu; Unix: OpenBSD, FreeBSD  
+Office automation  
+Suite Microsoft Office: 2003/2007/2010/2013/Office 365; OpenOffice: 2.x, 3.x, 4.x; Google: GAB (Google Apps for Business)  
+Virtualizzazione  
+Citrix: XenServer; VmWare: vSphere 4/5/6; Altro: VirtualBox  
+Networking  
+Routing, servizi e protocolli di rete: DNS, DHCP, VPN, FTP; Security: Fortigate, Clavister; Data Redundancy System Directory: Microsoft  
+Active Directory e GPO; Web e Application server: Microsoft IIS; Mail server: Microsoft Exchange 2003/2007/2010/2013, Zimbra; Database  
+server: Microsoft SQL Server 2005/2008/2010/2014, MySql, PostgreSql, Progress, Access.  
+Sviluppo  
+Classico: Visual Basic, VB.NET, Cobol, Java; Web: HTML 4/5, CSS, PHP, Javascript; Scripting: Powershell, VbScript  
+Altro  
+Configurazione lato server e client di diversi antivirus e antispam; conoscenza approfondita dei browser e client e-mail più diffusi; Business  
+Intelligence: Power BI, Zoho, BIRT; esperienza accumulata in disaster recovery e strategie di backup in rete, FTP e Cloud; conoscenza di diversi applicativi di grafica e fotoritocco, editing audio e video; esperienza nell'assemblaggio, riparazione e manutenzione PC e periferiche; configurazione dispositivi mobili aziendali.  
+  
+Competenze trasversali  
+L'esperienza professionale finora accumulata mi ha permesso di sviluppare e dimostrare eccellenti doti interpersonali e comunicative, senso del dovere, determinazione, affidabilità e responsabilità. Considero il mio essere fortemente orientato ai risultati un importante punto di forza.  
+Ho gestito alcuni progetti interni come team-leader coordinando il gruppo, l'organizzazione delle attività e le priorità, garantendo il rispetto dei tempi ed il raggiungimento degli obiettivi; contestualmente mi ritengo in grado di operare in situazioni ad alta criticità, di gestire e risolvere i conflitti e le diverse esigenze che nascono all'interno dei gruppi di lavoro.  
+  
+Aspirazioni  
+Amerei operare in ambito informatico e delle nuove tecnologie come direttore o responsabile, preferibilmente all'interno di un team che garantisca una crescita professionale e personale.  
+Ottime capacità di comunicazione e nei rapporti interpersonali, empatia, dinamismo, senso pratico e organizzativo, spirito di iniziativa, problem-solving, abitudine a lavorare per obiettivi.  
+Disponibile a corsi di formazione e specializzazione ed a trasferte in Italia e all'estero.  
+  
+Autorizzo il trattamento dei miei dati personali ai sensi dell'art. 13 del Decreto Legislativo 30 giugno 2003, n. 196 "Codice in materia di protezione dei dati personali" e dell'art. 13 del GDPR (Regolamento UE 2016/679).
+Autorizzo il trattamento dei miei dati personali ai sensi dell’art. 13 D.Lgs. 30 giugno 2003 n. 196 e dell’art. 13 del Regolamento (UE) 2016/679.

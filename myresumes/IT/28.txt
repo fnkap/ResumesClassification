@@ -1,0 +1,127 @@
+IT Project Manager Cosultant
+IT Project Manager Cosultant - R1 S.p.A
+Fiumicino, Lazio
+IT native with good technical expertise and great scope of complex projects and their life cycles. Sharp  
+look to intercept internal demand and design effective solutions. Proven ability working on the  
+integration of different ICT systems and experienced into startup of new one. Looking for a new and  
+challenging managerial position which can take advantage of my existing skills and experiences, further  
+improving my knowledge on both professional and personal perspective.
+Esperienza lavorativa
+IT Project Manager Cosultant
+R1 S.p.A -  Roma, Lazio
+Da aprile 2018 a oggi
+Preparation of technical documentation supporting calls for tenders for the following:
+Project Management
+R1 S.p.A
+Da 2018 a dicembre 2018
+IT Manager
+R1 S.p.A
+Da maggio 2018 a maggio 2018
+and Community Cloud Services and project management of the technical team engaged into the project  
+(May 2018).
+R1 S.p.A
+Da aprile 2018 a aprile 2018
+maintenance of IT Infrastructure.  
+  
+o ALD Automotive Italia (September 2018): IT Operations Services.  
+  
+o ANAS (October 2018): IT Operations Services.  
+  
+o ANPAL (November 2018): technical project for a Data Mining System/ Learning Machine.  
+  
+o CONI (December 2018): perimetral security technical project.  
+  
+o ENGIE (December 2018): management of the backup system.
+Zucchetti Mago Suite
+ISP Logistica, Aprilia (LT)
+Da giugno 2017 a ottobre 2017
+Strategical Planning Manager
+Alitalia S.A.I., Fiumicino (RM)
+Da gennaio 2015 a marzo 2017
+Alitalia responsive website (Adobe CMS): test management, test kits editing, KPI definition and monitoring (Adobe Analytics, BMC Coradiant), strategical planning of website maintenance  
+activities.  
+• Alitalia Arco - Sabre migration: test management, test kits editing.  
+Technological interface with AZ IT.
+IT Manager
+Air One Smart Carrier
+Da maggio 2010 a dicembre 2014
+Malpensa and Fiumicino  
+• Deployment of Navitaire reservation system: project leader for Air One Smart Carrier startup  
+and integration between Navitaire and Alitalia/third parties systems: Navitaire/Alitalia Arco code  
+share, Revenue Accounting (Alitalia Sirax), DCS (Departure Control System: Alitalia Arco, Sita,  
+Codeco, Altea, Gaetan), Revenue Management (airRM/Sabre AirMax), GDS (Global  
+Distribution System: Amadeus, Travelport), OTA (On line Travel Agency: Bravofly,  
+Travelfusion), Antifraud system (CyberSouce), Payment Processing Systems (RBS Worldpay,  
+Network International, SETEFI).  
+• Website Air One with Open Source CMS (Umbraco): technological management, monitoring  
+and maintenance.  
+• Definition and monitoring of system KPIs.  
+• Queries design and creation (Microsoft SQL) for reporting.  
+• Second level assistance for Navitaire system.  
+• Technological interface with Alitalia IT.  
+• Air One IT budget management.
+IT Operations Manager
+Alitalia C.A.I -  Roma, Lazio
+Da febbraio 2009 a aprile 2010
+Alitalia Help Desk: definition of needs/scope, design, KPIs definition and monitoring.
+CED & Network Manager
+Air One Smart Carrier -  Roma, Lazio
+Da maggio 2003 a gennaio 2009
+Air One LAN/WAN design and deployment: setup and configuration of Open Source VPN  
+(OpenVPN), firewalling (IPtables/Netfilter), LAN monitoring (HP OpenView).  
+• Air One Data Center design and deployment: virtualization (WMware), SAN setup (NetApp), e- mail (Microsoft Exchange), backup system setup (IBM Tivoli).  
+• Design and deployment of Air One VoIP system based on Open Source solution (Asterisk).  
+• Reservation system migration (Alitalia Arco - Sabre).  
+• DCS (Departure Control System) deployment into all airports served by Air One (Italy and USA).  
+• Customer Support: business continuity monitoring and internal Help Desk.  
+• IT budget management.
+Project Manager
+Media Link S.r.l -  Milano, Lombardia
+Da marzo 1999 a aprile 2003
+• e-learning and entertainment: design of interactive multimedia products (CD-ROM based) and websites for Microsoft, Rizzoli New Media, DeAgostini Professionale, Domus Editoriale.  
+• Technology budget management.
+IT Consultant
+Cardiovascular Surgery - San Raffaele Hospital -  Milano, Lombardia
+Da gennaio 1998 a febbraio 1999
+e-learning: design and development of interactive multimedia courseware with Macromedia  
+Director.  
+• Clinical Data Analysis: data mining and clustering with Statsoft Statistica.  
+• IT budget management.
+IT Consultant
+Centro Televisivo Universitario - University of Milan -  Milano, Lombardia
+Da febbraio 1991 a dicembre 1997
+e-learning: design and development of interactive multimedia software (cross platform PC & Macintosh) based on optical supports (Laservision videodisk and CD-ROM) with Macromedia  
+Autorware/Director, Apple HyperCard, OWL Guide for University of Milan, University of Parma,  
+University of Udine, Regione Sicilia.  
+• CTU LAN: interconnection with Optical Fiber Backbone of the University of Milan, routing and firewalling.  
+• IT budget management.
+IT Consultant
+IULM - International University of Languages and Media -  Milano, Lombardia
+Da gennaio 1994 a gennaio 1996
+e-learning: design and development of interactive multimedia courseware and self-assessment  
+with Apple HyperCard.  
+• IULM Linguistic Center and Multimedia LAB LAN.
+IT Consultant
+Da marzo 1985 a gennaio 1991
+- Milano  
+• Software developer: courseware development with DB III and Clipper framework for RCS  
+Editori.
+Istruzione e Formazione
+Bachelor Degree in Computer Science
+University of Milan
+febbraio 1991
+Competenze
+audit (Meno di 1 anno), budgeting (Meno di 1 anno), documentation (1 anno), maintenance (6 anni), SQL (4 anni)
+Informazioni addizionali
+Key Qualifications  
+  
+• Deep knowledge of projects management (both Agile, Prince2 and Waterfall approaches).  
+• Strong skill writing documentation for ITC procedures, security and disaster recovery.  
+• Strong IT, commercial, planning and budgeting skills.  
+• Able to communicate technicalities to non-technical audience.  
+• Focused on Customer satisfaction and problem solving.  
+• Management of server software and associated tasks (maintenance, upgrade, backup, audit)  
+• Knowledge of wired and wireless networking topics (firewall, routers, telephony).  
+• Knowledge in design and develop relational data bases.  
+• Knowledge on VBScript, Javascript, XHTML, CSS, PHP and SQL.
+Autorizzo il trattamento dei miei dati personali ai sensi dell’art. 13 D.Lgs. 30 giugno 2003 n. 196 e dell’art. 13 del Regolamento (UE) 2016/679.
